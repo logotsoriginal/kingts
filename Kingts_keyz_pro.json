@@ -1,1 +1,23 @@
+{
+    "update_log": [
+        {
+            "version": "1.0.0",
+            "downloadlink": "https://www.mediafire.com/file/tmwh8haoc32kqkt/LOGO+TS+v2.1.4+.zip/file"
+        }
+    ],
+    "licenses": [      
+        {
+            "name": "KUNAL K",
+            "key": "da8f438c8230536cc3bc76efef11175de5c010c9c745bd8f95c02e1b1d305609",
+            "expiry": "2026-08-11",
+            "mode": "vip"
+        },      
+        {
+            "name": "SHIVAM",
+            "key": "8e35c2cd1751d20059a0f44e11db84f7bbce32daaa260451cf44cb25eecfdb08",
+            "expiry": "2026-08-10",
+            "mode": "vip"
+        }
+    ]
+}
 
