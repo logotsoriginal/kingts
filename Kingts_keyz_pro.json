@@ -5,5 +5,12 @@
             "downloadlink": "https://www.mediafire.com/file/tmwh8haoc32kqkt/LOGO+TS+v2.1.4+.zip/file"
         }
     ],
-    "licenses": []
+    "licenses": [
+        {
+            "name": "USR_U14K",
+            "key": "97bda82d2d19d9703cae41c3560d91e1fd323ba77cc824d3fb97c3444a300d89",
+            "expiry": "2026-08-30",
+            "mode": "vip"
+        }
+    ]
 }
