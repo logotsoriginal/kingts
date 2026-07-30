@@ -14,6 +14,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "ADMIN",
+            "key": "f88412f83305946f1f4cbb76cf8e5eba56288b919f7c37fa47af327573f5f72c",
+            "expiry": "2026-08-30",
+            "mode": "vip"
         }
     ]
 }
