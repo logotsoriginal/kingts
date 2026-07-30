@@ -5,14 +5,21 @@
             "downloadlink": "https://www.mediafire.com/file/tmwh8haoc32kqkt/LOGO+TS+v2.1.4+.zip/file"
         }
     ],
-    "licenses": [      
+    "licenses": [
         {
             "name": "KINGD",
             "key": "68a6ed10c0da71a35e31bc520bb21de6c551b5b570824451af83b97228e24ca2",
             "expiry": "2026-08-11",
+            "mode": "vip",
+            "c": "#22c55e",
+            "x": 0
+        },
+        {
+            "name": "USR_38QC",
+            "plain_key": "UZBW7938",
+            "key": "3b6adcaeee043e1c60c8b2c0527b8608697f7ae0b9f1f99bb33ec76a76afeed9",
+            "expiry": "2026-08-30",
             "mode": "vip"
         }
-
     ]
 }
-
