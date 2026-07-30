@@ -19,6 +19,15 @@
             "name": "ADMIN",
             "key": "f88412f83305946f1f4cbb76cf8e5eba56288b919f7c37fa47af327573f5f72c",
             "expiry": "2026-08-30",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "USR_0JOG",
+            "key": "beba409bec52a8cb437f73d679fe897b0d37fd9261d8358f1708f1b081185cdd",
+            "expiry": "2026-08-24",
             "mode": "vip"
         }
     ]
