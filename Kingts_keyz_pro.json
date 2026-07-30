@@ -10,6 +10,15 @@
             "name": "USR_U14K",
             "key": "97bda82d2d19d9703cae41c3560d91e1fd323ba77cc824d3fb97c3444a300d89",
             "expiry": "2026-08-30",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "USR_FD45",
+            "key": "1bfa9e5ba9afa4c70c5e08bcf2a4d3548e26a72ef6f9c6d2a1eed289cc23a620",
+            "expiry": "2026-08-30",
             "mode": "vip"
         }
     ]
