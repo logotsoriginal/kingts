@@ -28,6 +28,15 @@
             "name": "USR_0JOG",
             "key": "beba409bec52a8cb437f73d679fe897b0d37fd9261d8358f1708f1b081185cdd",
             "expiry": "2026-08-24",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "25 Days left"
+        },
+        {
+            "name": "USR_93P1",
+            "key": "3d5182604535b5d826ffced46d1f3500163eea8b174f534110657ce9f02d64ca",
+            "expiry": "2026-08-31",
             "mode": "vip"
         }
     ]
