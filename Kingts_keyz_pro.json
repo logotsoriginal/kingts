@@ -13,7 +13,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "31 Days left"
+            "st": "30 Days left"
         },
         {
             "name": "ADMIN",
@@ -22,7 +22,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "31 Days left"
+            "st": "30 Days left"
         },
         {
             "name": "USR_0JOG",
@@ -31,12 +31,21 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "25 Days left"
+            "st": "24 Days left"
         },
         {
             "name": "USR_93P1",
             "key": "3d5182604535b5d826ffced46d1f3500163eea8b174f534110657ce9f02d64ca",
             "expiry": "2026-08-31",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "SONU SINGH",
+            "key": "8b3f98a4860d81220be2e049f1edbe5edea31e7c4dbda84d7c64761a68baf044",
+            "expiry": "2026-09-01",
             "mode": "vip"
         }
     ]
