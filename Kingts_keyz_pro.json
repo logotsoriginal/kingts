@@ -50,6 +50,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "32 Days left"
+        },
+        {
+            "name": "USR_YRJ7",
+            "key": "91696e601bddbf3f91dd2d3a04925df2c96fe54000faa05e5b49c2d2b3ae2887",
+            "expiry": "2026-08-28",
+            "mode": "vip"
         }
     ]
 }
