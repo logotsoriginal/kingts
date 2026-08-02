@@ -13,7 +13,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "30 Days left"
+            "st": "29 Days left"
         },
         {
             "name": "ADMIN",
@@ -22,7 +22,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "30 Days left"
+            "st": "29 Days left"
         },
         {
             "name": "USR_0JOG",
@@ -31,7 +31,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24 Days left"
+            "st": "23 Days left"
         },
         {
             "name": "USR_93P1",
@@ -40,7 +40,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "31 Days left"
+            "st": "30 Days left"
         },
         {
             "name": "SONU SINGH",
@@ -49,12 +49,21 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "32 Days left"
+            "st": "31 Days left"
         },
         {
             "name": "USR_YRJ7",
             "key": "91696e601bddbf3f91dd2d3a04925df2c96fe54000faa05e5b49c2d2b3ae2887",
             "expiry": "2026-08-28",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "27 Days left"
+        },
+        {
+            "name": "ARSHAD",
+            "key": "0ec8ff264702574fc5158dee61fed329dcdb9fbb03ee0e20ab226af7264778cf",
+            "expiry": "2026-09-02",
             "mode": "vip"
         }
     ]
