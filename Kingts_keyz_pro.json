@@ -82,6 +82,15 @@
             "name": "FADUU",
             "key": "3a4242b3de17f696b6f11bf6b34bcd4638d826983979f921b45ac8e35b5659bc",
             "expiry": "2026-09-02",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "BAMBUU",
+            "key": "99aa392aa5620a970e12bdf705f7102c3738d77655e53f6ede0abb7b1c9f4530",
+            "expiry": "2026-09-02",
             "mode": "vip"
         }
     ]
