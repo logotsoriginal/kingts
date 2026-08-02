@@ -73,6 +73,15 @@
             "name": "DEEPAK",
             "key": "b30bb0e7e9127d7df909e705679ed350718c7cebe0a659b67f657f9f7061622a",
             "expiry": "2026-09-02",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "FADUU",
+            "key": "3a4242b3de17f696b6f11bf6b34bcd4638d826983979f921b45ac8e35b5659bc",
+            "expiry": "2026-09-02",
             "mode": "vip"
         }
     ]
