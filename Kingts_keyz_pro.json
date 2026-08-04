@@ -113,6 +113,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "RAJA KUMAR",
+            "key": "b10642969e62151ae18cf89d608b9d1fb219c3eeef9af2f483bd99dcd5c04955",
+            "expiry": "2026-09-04",
+            "mode": "vip"
         }
     ]
 }
