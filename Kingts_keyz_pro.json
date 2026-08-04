@@ -136,6 +136,15 @@
             "name": "EHLE JAAN",
             "key": "29a0b637c2bfe3a75034b54fb8e08eca9571267e6e76e28bf61a39e420943033",
             "expiry": "2026-09-04",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "DEMO1",
+            "key": "abed41528dc6d0290ea80355fb2060a0bbb416ab86e8230a20380f51d7363ff2",
+            "expiry": "2026-08-04",
             "mode": "vip"
         }
     ]
