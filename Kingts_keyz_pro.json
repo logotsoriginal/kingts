@@ -1,8 +1,8 @@
 {
     "update_log": [
         {
-            "version": "1.0.0",
-            "downloadlink": "https://www.mediafire.com/file/tmwh8haoc32kqkt/LOGO+TS+v2.1.4+.zip/file"
+            "version": "1.0.1",
+            "downloadlink": "https://hdhdg"
         }
     ],
     "licenses": [
@@ -109,7 +109,10 @@
             "name": "SOMNATH SANTRA",
             "key": "2ae2376fdcd0526541ba2947635c04c77f9ccfcbe344a3bf3d8d14ead68eff60",
             "expiry": "2026-09-03",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
