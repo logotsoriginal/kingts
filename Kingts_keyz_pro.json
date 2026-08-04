@@ -1,8 +1,8 @@
 {
     "update_log": [
         {
-            "version": "1.0.1",
-            "downloadlink": "https://www.mediafire.com/file/hhe5uvxjsvtv0qu/KING+TS+v1.0.1.zip/file"
+            "version": "1.0.2",
+            "downloadlink": "https://www.mediafire.com/file/omfkmsscb5fwhbm/KING+TS+v1.0.2.zip/file"
         }
     ],
     "licenses": [
@@ -148,7 +148,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "1 Days left"
+            "st": "3 Days left"
         },
         {
             "name": "JOY KUMAR",
