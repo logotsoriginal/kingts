@@ -127,6 +127,15 @@
             "name": "FIRE LOWER",
             "key": "4e2fa4d062af57df56550970910a538aab219adf1445d8bf5787896feefa9e88",
             "expiry": "2026-09-04",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "EHLE JAAN",
+            "key": "29a0b637c2bfe3a75034b54fb8e08eca9571267e6e76e28bf61a39e420943033",
+            "expiry": "2026-09-04",
             "mode": "vip"
         }
     ]
