@@ -144,7 +144,7 @@
         {
             "name": "DEMO1",
             "key": "abed41528dc6d0290ea80355fb2060a0bbb416ab86e8230a20380f51d7363ff2",
-            "expiry": "2026-08-04",
+            "expiry": "2026-08-06",
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
@@ -163,7 +163,10 @@
             "name": "DIGITAL SHOP",
             "key": "c41599ef3140b882df20619e6e7b7baa9ae41ad4a58729e0dd7192d8a9e1a9fd",
             "expiry": "2026-09-04",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
