@@ -154,6 +154,15 @@
             "name": "JOY KUMAR",
             "key": "0923e46dbc96a9b029691a1dc130efb7947c0229921a0ff0012bdf3f1b274d4a",
             "expiry": "2026-09-04",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "DIGITAL SHOP",
+            "key": "c41599ef3140b882df20619e6e7b7baa9ae41ad4a58729e0dd7192d8a9e1a9fd",
+            "expiry": "2026-09-04",
             "mode": "vip"
         }
     ]
