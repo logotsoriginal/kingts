@@ -142,15 +142,6 @@
             "st": "32 Days left"
         },
         {
-            "name": "DEMO1",
-            "key": "abed41528dc6d0290ea80355fb2060a0bbb416ab86e8230a20380f51d7363ff2",
-            "expiry": "2026-08-06",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "3 Days left"
-        },
-        {
             "name": "JOY KUMAR",
             "key": "0923e46dbc96a9b029691a1dc130efb7947c0229921a0ff0012bdf3f1b274d4a",
             "expiry": "2026-09-04",
