@@ -13,7 +13,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "27 Days left"
+            "st": "26 Days left"
         },
         {
             "name": "ADMIN",
@@ -22,7 +22,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "27 Days left"
+            "st": "26 Days left"
         },
         {
             "name": "USR_0JOG",
@@ -31,7 +31,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "21 Days left"
+            "st": "20 Days left"
         },
         {
             "name": "USR_93P1",
@@ -40,7 +40,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "28 Days left"
+            "st": "27 Days left"
         },
         {
             "name": "SONU SINGH",
@@ -49,7 +49,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "29 Days left"
+            "st": "28 Days left"
         },
         {
             "name": "USR_YRJ7",
@@ -58,7 +58,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "25 Days left"
+            "st": "24 Days left"
         },
         {
             "name": "ARSHAD",
@@ -67,7 +67,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "30 Days left"
+            "st": "29 Days left"
         },
         {
             "name": "DEEPAK",
@@ -76,7 +76,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "30 Days left"
+            "st": "29 Days left"
         },
         {
             "name": "FADUU",
@@ -85,7 +85,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "30 Days left"
+            "st": "29 Days left"
         },
         {
             "name": "BAMBUU",
@@ -94,7 +94,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "30 Days left"
+            "st": "29 Days left"
         },
         {
             "name": "MONTU P",
@@ -103,7 +103,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "30 Days left"
+            "st": "29 Days left"
         },
         {
             "name": "SOMNATH SANTRA",
@@ -112,7 +112,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "31 Days left"
+            "st": "30 Days left"
         },
         {
             "name": "RAJA KUMAR",
@@ -121,7 +121,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "32 Days left"
+            "st": "31 Days left"
         },
         {
             "name": "FIRE LOWER",
@@ -130,7 +130,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "32 Days left"
+            "st": "31 Days left"
         },
         {
             "name": "EHLE JAAN",
@@ -139,7 +139,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "32 Days left"
+            "st": "31 Days left"
         },
         {
             "name": "JOY KUMAR",
@@ -148,7 +148,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "32 Days left"
+            "st": "31 Days left"
         },
         {
             "name": "DIGITAL SHOP",
@@ -157,7 +157,13 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "32 Days left"
+            "st": "31 Days left"
+        },
+        {
+            "name": "DEMO",
+            "key": "bf2ea8b54d4bb5a8e4e68b6e1b7248e2bb2e6d96f254544c42e87cef56a9094c",
+            "expiry": "2026-08-05",
+            "mode": "vip"
         }
     ]
 }
