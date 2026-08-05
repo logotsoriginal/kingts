@@ -160,19 +160,13 @@
             "st": "31 Days left"
         },
         {
-            "name": "DEMO",
-            "key": "bf2ea8b54d4bb5a8e4e68b6e1b7248e2bb2e6d96f254544c42e87cef56a9094c",
-            "expiry": "2026-08-05",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "1 Days left"
-        },
-        {
             "name": "SATYA JAISWAL",
             "key": "41486027264278072e91e1d8be9205990f3bbf43dd5e484e6a75d9e725c32e40",
             "expiry": "2026-09-05",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
