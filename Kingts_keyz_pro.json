@@ -172,6 +172,15 @@
             "name": "NAHID ANWAR",
             "key": "df87b38b27f0cdbb5bd919c20758b390693c007a3ba9926e3f75b7861cf01cd5",
             "expiry": "2026-09-05",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "MANO RANJAN",
+            "key": "8c9795680d3ee85436dafe3367f779ebc80fd906b3410aa7422194844f97585a",
+            "expiry": "2026-09-05",
             "mode": "vip"
         }
     ]
