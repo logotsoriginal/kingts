@@ -208,6 +208,15 @@
             "name": "NAYEEM UDDIN",
             "key": "a84fac2725e4c0ad07b1472be815e9248958a1c543d3906d6c871f0a957f9d14",
             "expiry": "2026-09-06",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "AASHU GUPTA",
+            "key": "f46ceaebfe890796357a2ca5cfa47e7827d25888e9fd8aecc0597eb085591126",
+            "expiry": "2026-09-06",
             "mode": "vip"
         }
     ]
