@@ -3,7 +3,7 @@
         {
             "version": "1.0.2",
             "downloadlink": "https://www.mediafire.com/file/omfkmsscb5fwhbm/KING+TS+v1.0.2.zip/file",
-            "mobile_sutep": "https://youtu.be/uiuHQbytLmQ",
+            "mobile_sutep": "https://youtu.be/msmdhcg-u9M",
             "laptop_sutep": "https://youtu.be/uiuHQbytLmQ"
         }
     ],
@@ -255,7 +255,10 @@
             "name": "ASRAFUL",
             "key": "fee6b8f527bb306f88ca524439ea7ff7d32a19a65cbf183ec3e1715e05e298c7",
             "expiry": "2026-09-07",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
