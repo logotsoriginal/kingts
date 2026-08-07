@@ -223,6 +223,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "KUNAL K",
+            "key": "404ac412b1ec3885cb947f58de6bb72f95434bee4ab3e0673f09491146b9c95e",
+            "expiry": "2026-09-07",
+            "mode": "vip"
         }
     ]
 }
