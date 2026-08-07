@@ -237,6 +237,15 @@
             "name": "KISHORE KUMAR",
             "key": "068248850e96fefb41813b06c69e9ef119d9be1efb5a8339bc81b4e39a7364b6",
             "expiry": "2026-09-07",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "DEMO",
+            "key": "4ff006ca6b88e752f08cb7881714505ceb3d2079eea432acfda8e158e0d1d82e",
+            "expiry": "2026-08-07",
             "mode": "vip"
         }
     ]
