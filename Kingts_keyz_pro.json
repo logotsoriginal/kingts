@@ -254,6 +254,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "KRATOS",
+            "key": "b00123fab9d95906085e531c9f6cfbf2d16719450c1680042fcbc12c0f13844d",
+            "expiry": "2026-09-08",
+            "mode": "vip"
         }
     ]
 }
