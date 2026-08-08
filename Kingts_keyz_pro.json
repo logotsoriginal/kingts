@@ -243,15 +243,6 @@
             "st": "32 Days left"
         },
         {
-            "name": "DEMO",
-            "key": "4ff006ca6b88e752f08cb7881714505ceb3d2079eea432acfda8e158e0d1d82e",
-            "expiry": "2026-08-07",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "1 Days left"
-        },
-        {
             "name": "ASRAFUL",
             "key": "fee6b8f527bb306f88ca524439ea7ff7d32a19a65cbf183ec3e1715e05e298c7",
             "expiry": "2026-09-07",
