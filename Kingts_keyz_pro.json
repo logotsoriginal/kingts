@@ -289,7 +289,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "2 Days left"
+            "st": "4 Days left"
         },
         {
             "name": "GUDDU",
@@ -299,6 +299,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "32 Days left"
+        },
+        {
+            "name": "BBCNET",
+            "key": "ab7d55546742099f3be6bb665cdac7c3e7fb21684cffdcaf732fdc43884959fc",
+            "expiry": "2026-09-09",
+            "mode": "vip"
         }
     ]
 }
