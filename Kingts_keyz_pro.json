@@ -263,6 +263,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "AKTR BXR",
+            "key": "53abfbc40a0d16ed56f5660f6b605a35d628d13c91b9f645edb2885a60a7cd0d",
+            "expiry": "2026-09-09",
+            "mode": "vip"
         }
     ]
 }
