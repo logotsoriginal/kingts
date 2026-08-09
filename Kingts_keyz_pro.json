@@ -277,6 +277,15 @@
             "name": "RIYAZ",
             "key": "3e08ae9b8d82a3f47c938360580d575645f8bb0327198fc928340fa971c18287",
             "expiry": "2026-09-09",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "DEMOYT",
+            "key": "ee822c16fef5ef6e72bb67bddf5b1e0c71f810517361fdef365f9436d5c288a5",
+            "expiry": "2026-08-10",
             "mode": "vip"
         }
     ]
