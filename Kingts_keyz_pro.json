@@ -285,7 +285,7 @@
         {
             "name": "DEMOYT",
             "key": "ee822c16fef5ef6e72bb67bddf5b1e0c71f810517361fdef365f9436d5c288a5",
-            "expiry": "2026-08-10",
+            "expiry": "2026-08-12",
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
@@ -295,7 +295,10 @@
             "name": "GUDDU",
             "key": "36560917dbbc8dd8313d013d1e4007eeda2b0903241e851cee90887d2c24b416",
             "expiry": "2026-09-09",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
