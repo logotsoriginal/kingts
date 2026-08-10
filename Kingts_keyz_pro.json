@@ -331,6 +331,15 @@
             "name": "SHUBHAM",
             "key": "0908e67c688c650ebcab95ecab4ac3bf0e97d59cf285746873b6248cb61849ca",
             "expiry": "2026-09-10",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "SUNIL",
+            "key": "d879c036d9f934c4ed72827acf1d4fac07ac5ab703ed47a930b36b49bcacffb4",
+            "expiry": "2026-09-10",
             "mode": "vip"
         }
     ]
