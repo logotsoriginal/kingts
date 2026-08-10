@@ -322,6 +322,15 @@
             "name": "MUKUL",
             "key": "919038b960b694198398473a4797b89081e609905a80211f63b5a3fe0a4f2340",
             "expiry": "2026-09-10",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "SHUBHAM",
+            "key": "0908e67c688c650ebcab95ecab4ac3bf0e97d59cf285746873b6248cb61849ca",
+            "expiry": "2026-09-10",
             "mode": "vip"
         }
     ]
