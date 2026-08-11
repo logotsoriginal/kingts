@@ -376,6 +376,15 @@
             "name": "STARKSKILLZ",
             "key": "5144bf0625fee2932c9af3fe9f4476688dd48ac587ff84a121d855197ee7e15b",
             "expiry": "2026-09-11",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "GOPAL SHARMA",
+            "key": "05e5befbdfd5a32432e2515420223caede77c54b5cae7c8f9c1805a3d688c9e6",
+            "expiry": "2026-09-11",
             "mode": "vip"
         }
     ]
