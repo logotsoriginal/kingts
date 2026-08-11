@@ -229,15 +229,6 @@
             "st": "27 Days left"
         },
         {
-            "name": "KUNAL K",
-            "key": "404ac412b1ec3885cb947f58de6bb72f95434bee4ab3e0673f09491146b9c95e",
-            "expiry": "2026-09-07",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "28 Days left"
-        },
-        {
             "name": "KISHORE KUMAR",
             "key": "068248850e96fefb41813b06c69e9ef119d9be1efb5a8339bc81b4e39a7364b6",
             "expiry": "2026-09-07",
@@ -385,7 +376,10 @@
             "name": "GOPAL SHARMA",
             "key": "05e5befbdfd5a32432e2515420223caede77c54b5cae7c8f9c1805a3d688c9e6",
             "expiry": "2026-09-11",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
