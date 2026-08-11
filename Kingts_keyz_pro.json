@@ -358,6 +358,15 @@
             "name": "ASRAFUL",
             "key": "7a193f8fcdfb9e8246074d943d6174de88b9dc5327a042328481c8e5ef8343a9",
             "expiry": "2026-09-11",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "LABU H",
+            "key": "aa03ef6e6943150a2ee409c00c4797019277075fa19f8dcc1cdfbf0d5ecf995b",
+            "expiry": "2026-09-11",
             "mode": "vip"
         }
     ]
