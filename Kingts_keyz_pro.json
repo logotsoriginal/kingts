@@ -385,6 +385,15 @@
             "name": "DOLPHIN",
             "key": "8e1b0ab4d4f410a193ad1f75c6307460b5c837f884eabdafe7e5e82cab6e7fd6",
             "expiry": "2026-09-11",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "RUNEWAY",
+            "key": "baf4040bc5afbeb25f659d949169f6d98fe72e1e06b9926df46c73816b0739fb",
+            "expiry": "2026-09-11",
             "mode": "vip"
         }
     ]
