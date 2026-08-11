@@ -367,6 +367,15 @@
             "name": "LABU H",
             "key": "aa03ef6e6943150a2ee409c00c4797019277075fa19f8dcc1cdfbf0d5ecf995b",
             "expiry": "2026-09-11",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "STARKSKILLZ",
+            "key": "5144bf0625fee2932c9af3fe9f4476688dd48ac587ff84a121d855197ee7e15b",
+            "expiry": "2026-09-11",
             "mode": "vip"
         }
     ]
