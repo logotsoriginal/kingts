@@ -412,6 +412,15 @@
             "name": "ALAMGIR",
             "key": "89a4318c2af69d806d5026aafe7121aef73b60e6933366fe4a29571085ca9ff6",
             "expiry": "2026-09-12",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "ASALAM",
+            "key": "b9ae00281306227f3c3bc7d5be24e3ab12622c0198c65d73ecfb7637fdb5b871",
+            "expiry": "2026-09-12",
             "mode": "vip"
         }
     ]
