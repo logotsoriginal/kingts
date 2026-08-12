@@ -421,6 +421,15 @@
             "name": "ASALAM",
             "key": "b9ae00281306227f3c3bc7d5be24e3ab12622c0198c65d73ecfb7637fdb5b871",
             "expiry": "2026-09-12",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "EGNAS KUJUR",
+            "key": "6f833fd966fee77412cc0f29f35e3dbd099f23a3bd0e6876577e0209360e4925",
+            "expiry": "2026-09-12",
             "mode": "vip"
         }
     ]
