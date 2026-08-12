@@ -394,6 +394,15 @@
             "name": "DEV M",
             "key": "3eee60251c23aa6032bccc8d343f60bd3d7d3babd342ab0525806fb83cf5aeb6",
             "expiry": "2026-09-12",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "SUBASH",
+            "key": "1f0407110abe41b7c25f5c3aed367c11c91f34d60935b538df7b89ae224f7eda",
+            "expiry": "2026-09-12",
             "mode": "vip"
         }
     ]
