@@ -429,8 +429,11 @@
         {
             "name": "EGNAS KUJUR",
             "key": "6f833fd966fee77412cc0f29f35e3dbd099f23a3bd0e6876577e0209360e4925",
-            "expiry": "2026-09-12",
-            "mode": "vip"
+            "expiry": "2026-09-13",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
