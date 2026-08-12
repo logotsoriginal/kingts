@@ -403,6 +403,15 @@
             "name": "SUBASH",
             "key": "1f0407110abe41b7c25f5c3aed367c11c91f34d60935b538df7b89ae224f7eda",
             "expiry": "2026-09-12",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "ALAMGIR",
+            "key": "89a4318c2af69d806d5026aafe7121aef73b60e6933366fe4a29571085ca9ff6",
+            "expiry": "2026-09-12",
             "mode": "vip"
         }
     ]
