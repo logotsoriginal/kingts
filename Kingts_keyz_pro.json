@@ -438,8 +438,11 @@
         {
             "name": "DEMO",
             "key": "c6eabbc1fc85162f2bbba12e6ffb2eec6ff2a5ce45ca34fc012a5ca9e34b3780",
-            "expiry": "2026-09-13",
-            "mode": "vip"
+            "expiry": "2026-08-13",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
