@@ -436,19 +436,13 @@
             "st": "32 Days left"
         },
         {
-            "name": "DEMO",
-            "key": "c6eabbc1fc85162f2bbba12e6ffb2eec6ff2a5ce45ca34fc012a5ca9e34b3780",
-            "expiry": "2026-08-13",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "1 Days left"
-        },
-        {
             "name": "RATNESH RAJBHAR",
             "key": "c6f18a83c556f5108e7a1db2abbc1c80d84149f6fabace2be1ab02504b6677ae",
             "expiry": "2026-09-13",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
