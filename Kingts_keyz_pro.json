@@ -448,6 +448,15 @@
             "name": "TATKAL GURU",
             "key": "42bdb0a0e694bd9528c3a02519e8f906fe914820d11b34694b377959dc192fc3",
             "expiry": "2026-09-14",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "GOLU",
+            "key": "5bdb90575f596e72c0caa36593639edb1abd2ab5d6bd9bc2ceb854bf1ef752ee",
+            "expiry": "2026-09-14",
             "mode": "vip"
         }
     ]
