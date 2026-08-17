@@ -479,6 +479,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "DEMOUSER",
+            "key": "19b9cb27d4d77411c1c21085876c28d89f68bd4e30fccc73c05da2a709314d1b",
+            "expiry": "2026-08-19",
+            "mode": "vip"
         }
     ]
 }
