@@ -520,6 +520,15 @@
             "name": "USR_4M6U",
             "key": "4e2f74c0be9876d0a1af11cce48f3118dd90ac4e6e8dda47f917e2905f2cb16e",
             "expiry": "2026-09-20",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "VIKASH KUMAR",
+            "key": "fcc499e133235b2f0a14d9dbf2530631983f1fdcade5f3a5ff15b40d30acb5c9",
+            "expiry": "2026-09-20",
             "mode": "vip"
         }
     ]
