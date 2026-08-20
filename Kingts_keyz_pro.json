@@ -511,6 +511,15 @@
             "name": "PROART",
             "key": "68ec35b3346d0cf48b0a8c0ace7eb745f0fd00bfb72f9fa53e5deb46422f1f33",
             "expiry": "2026-09-20",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "USR_4M6U",
+            "key": "4e2f74c0be9876d0a1af11cce48f3118dd90ac4e6e8dda47f917e2905f2cb16e",
+            "expiry": "2026-09-20",
             "mode": "vip"
         }
     ]
