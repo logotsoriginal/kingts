@@ -502,6 +502,15 @@
             "name": "SR SR",
             "key": "88b288a99a2d960055a3b21f81ed10119f8082f522e6546f0bf5106a5ff2e6dc",
             "expiry": "2026-09-19",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "PROART",
+            "key": "68ec35b3346d0cf48b0a8c0ace7eb745f0fd00bfb72f9fa53e5deb46422f1f33",
+            "expiry": "2026-09-20",
             "mode": "vip"
         }
     ]
