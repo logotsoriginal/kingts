@@ -524,6 +524,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "RU DON",
+            "key": "73b9c17f83f030ef0088e9ffc8c298484fe2b6ca5402dffb4173238bcd2ff033",
+            "expiry": "2026-09-21",
+            "mode": "vip"
         }
     ]
 }
