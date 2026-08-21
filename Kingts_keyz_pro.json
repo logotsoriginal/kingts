@@ -481,15 +481,6 @@
             "st": "27 Days left"
         },
         {
-            "name": "DEMOUSER",
-            "key": "19b9cb27d4d77411c1c21085876c28d89f68bd4e30fccc73c05da2a709314d1b",
-            "expiry": "2026-08-19",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "G M SHAIKH",
             "key": "355eb427aa1c6bbbe089f7d8186a1db0d93f9053139ab571ddee02e2c46ebac4",
             "expiry": "2026-09-18",
