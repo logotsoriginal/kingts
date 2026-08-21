@@ -533,12 +533,6 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
-        },
-        {
-            "name": "USR_EWT7",
-            "key": "9bb9d89db005edeaac312fc9ffad8774724eb2a17fe8dcd01884f18c7fe2425f",
-            "expiry": "2026-08-21",
-            "mode": "vip"
         }
     ]
 }
