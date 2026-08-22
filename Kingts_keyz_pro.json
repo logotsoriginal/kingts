@@ -538,6 +538,15 @@
             "name": "ASRAFUL",
             "key": "f0071015f4dad85ce1d0dea8ed20b8daaac026e2783b0ed7345061749d6b9b7f",
             "expiry": "2026-09-22",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "UMAR",
+            "key": "9dd373acc6404e99e500940971592cb9353d984f017d020244aa5d67a99b6c8a",
+            "expiry": "2026-09-22",
             "mode": "vip"
         }
     ]
