@@ -565,6 +565,15 @@
             "name": "RAHMAT",
             "key": "af44e101d36f97de52c1001b548cda58163ec82e0d3bde12a78e3dd0517c1385",
             "expiry": "2026-09-24",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "DEMO",
+            "key": "96f090e085a4b5f08ff47edc53f2bcb87b79f18a4cf6640905d7505d382d7e52",
+            "expiry": "2026-08-27",
             "mode": "vip"
         }
     ]
