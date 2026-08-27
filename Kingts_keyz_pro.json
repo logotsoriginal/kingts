@@ -226,7 +226,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "41 Days left"
+            "st": "35 Days left"
         },
         {
             "name": "KISHORE KUMAR",
@@ -569,15 +569,6 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "29 Days left"
-        },
-        {
-            "name": "DEMO",
-            "key": "96f090e085a4b5f08ff47edc53f2bcb87b79f18a4cf6640905d7505d382d7e52",
-            "expiry": "2026-08-27",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "1 Days left"
         }
     ]
 }
