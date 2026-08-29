@@ -217,7 +217,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "33 Days left"
+            "st": "43 Days left"
         },
         {
             "name": "KISHORE KUMAR",
@@ -560,6 +560,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "27 Days left"
+        },
+        {
+            "name": "MD RIYAZ",
+            "key": "8ec3c9b9ddcfe869da283418840f842f60cf04ffd3989478a749ae4aa1bd49ef",
+            "expiry": "2026-09-29",
+            "mode": "vip"
         }
     ]
 }
