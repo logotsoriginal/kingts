@@ -569,6 +569,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "9 Days left"
+        },
+        {
+            "name": "ADMIN",
+            "key": "50974ee536572dea5f73ac1d7c62a0e9ef46f939f56c6fdd2ae6f4aaa50e27a7",
+            "expiry": "2030-10-02",
+            "mode": "vip"
         }
     ]
 }
