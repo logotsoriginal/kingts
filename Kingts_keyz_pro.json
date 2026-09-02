@@ -13,15 +13,6 @@
     ],
     "licenses": [
         {
-            "name": "USR_FD45",
-            "key": "1bfa9e5ba9afa4c70c5e08bcf2a4d3548e26a72ef6f9c6d2a1eed289cc23a620",
-            "expiry": "2026-08-30",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "USR_93P1",
             "key": "3d5182604535b5d826ffced46d1f3500163eea8b174f534110657ce9f02d64ca",
             "expiry": "2026-08-31",
