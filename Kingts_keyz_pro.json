@@ -22,15 +22,6 @@
             "st": "Expired"
         },
         {
-            "name": "ADMIN",
-            "key": "f88412f83305946f1f4cbb76cf8e5eba56288b919f7c37fa47af327573f5f72c",
-            "expiry": "2026-08-30",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "USR_93P1",
             "key": "3d5182604535b5d826ffced46d1f3500163eea8b174f534110657ce9f02d64ca",
             "expiry": "2026-08-31",
@@ -574,7 +565,10 @@
             "name": "KUNAL K",
             "key": "41336405db474b2aa79c7fb0b5c72689bc2d90593331c2f06006333b74041774",
             "expiry": "2026-09-10",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "9 Days left"
         }
     ]
 }
