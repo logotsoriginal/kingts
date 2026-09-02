@@ -13,15 +13,6 @@
     ],
     "licenses": [
         {
-            "name": "SONU SINGH",
-            "key": "e7b588dc593782ca8329346dc45d5a7d96d4957932a782e0d536fcbf3df7cb64",
-            "expiry": "2026-09-01",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "ARSHAD",
             "key": "0ec8ff264702574fc5158dee61fed329dcdb9fbb03ee0e20ab226af7264778cf",
             "expiry": "2026-09-02",
