@@ -357,7 +357,7 @@
         {
             "name": "ALAMGIR",
             "key": "89a4318c2af69d806d5026aafe7121aef73b60e6933366fe4a29571085ca9ff6",
-            "expiry": "2026-09-12",
+            "expiry": "2026-09-15",
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
