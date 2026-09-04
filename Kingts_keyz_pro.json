@@ -49,15 +49,6 @@
             "st": "Expired"
         },
         {
-            "name": "MONTU P",
-            "key": "7c2d620104ee42187791b2fe20e646e8415fe52962ad741475493e919fcc68a9",
-            "expiry": "2026-09-02",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "SOMNATH SANTRA",
             "key": "2ae2376fdcd0526541ba2947635c04c77f9ccfcbe344a3bf3d8d14ead68eff60",
             "expiry": "2026-09-03",
@@ -565,7 +556,10 @@
             "name": "IRFAN SAMEER",
             "key": "d9c66c785a7e3f9aa148df5ab56924121266760dee6249aa67ecdcc104db6d05",
             "expiry": "2026-10-04",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
         }
     ]
 }
