@@ -556,6 +556,15 @@
             "name": "INZAMAM",
             "key": "bfebf7213ce8abb6220d55d2ecec13b473dde0a12e85aada88368af77b1cf376",
             "expiry": "2026-10-04",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "IRFAN SAMEER",
+            "key": "d9c66c785a7e3f9aa148df5ab56924121266760dee6249aa67ecdcc104db6d05",
+            "expiry": "2026-10-04",
             "mode": "vip"
         }
     ]
