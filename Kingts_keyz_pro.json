@@ -13,15 +13,6 @@
     ],
     "licenses": [
         {
-            "name": "DEEPAK",
-            "key": "b30bb0e7e9127d7df909e705679ed350718c7cebe0a659b67f657f9f7061622a",
-            "expiry": "2026-09-02",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "SOMNATH SANTRA",
             "key": "2ae2376fdcd0526541ba2947635c04c77f9ccfcbe344a3bf3d8d14ead68eff60",
             "expiry": "2026-09-03",
