@@ -13,15 +13,6 @@
     ],
     "licenses": [
         {
-            "name": "SOMNATH SANTRA",
-            "key": "2ae2376fdcd0526541ba2947635c04c77f9ccfcbe344a3bf3d8d14ead68eff60",
-            "expiry": "2026-09-03",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "0 Days left"
-        },
-        {
             "name": "RAJA KUMAR",
             "key": "b10642969e62151ae18cf89d608b9d1fb219c3eeef9af2f483bd99dcd5c04955",
             "expiry": "2026-09-04",
