@@ -13,15 +13,6 @@
     ],
     "licenses": [
         {
-            "name": "ARSHAD",
-            "key": "0ec8ff264702574fc5158dee61fed329dcdb9fbb03ee0e20ab226af7264778cf",
-            "expiry": "2026-09-02",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "DEEPAK",
             "key": "b30bb0e7e9127d7df909e705679ed350718c7cebe0a659b67f657f9f7061622a",
             "expiry": "2026-09-02",
