@@ -22,15 +22,6 @@
             "st": "Expired"
         },
         {
-            "name": "FADUU",
-            "key": "3a4242b3de17f696b6f11bf6b34bcd4638d826983979f921b45ac8e35b5659bc",
-            "expiry": "2026-09-02",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "SOMNATH SANTRA",
             "key": "2ae2376fdcd0526541ba2947635c04c77f9ccfcbe344a3bf3d8d14ead68eff60",
             "expiry": "2026-09-03",
