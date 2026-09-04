@@ -107,9 +107,9 @@
             "key": "a84fac2725e4c0ad07b1472be815e9248958a1c543d3906d6c871f0a957f9d14",
             "expiry": "2026-10-06",
             "mode": "vip",
-            "c": "var(--ios-orange)",
+            "c": "var(--ios-green)",
             "x": 0,
-            "st": "3 Days left"
+            "st": "33 Days left"
         },
         {
             "name": "AASHU GUPTA",
@@ -515,6 +515,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "PREM",
+            "key": "22f8d17a826da8a481fc9b4fa2d04a3f8e71183d7e0bc9be73aa79d5944c002e",
+            "expiry": "2026-10-04",
+            "mode": "vip"
         }
     ]
 }
