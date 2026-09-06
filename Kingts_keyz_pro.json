@@ -469,12 +469,12 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "29 Days left"
+            "st": "35 Days left"
         },
         {
             "name": "PREM",
             "key": "22f8d17a826da8a481fc9b4fa2d04a3f8e71183d7e0bc9be73aa79d5944c002e",
-            "expiry": "2026-10-04",
+            "expiry": "2026-10-10",
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
