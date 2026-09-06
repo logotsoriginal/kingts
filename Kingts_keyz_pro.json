@@ -13,15 +13,6 @@
     ],
     "licenses": [
         {
-            "name": "EHLE JAAN",
-            "key": "29a0b637c2bfe3a75034b54fb8e08eca9571267e6e76e28bf61a39e420943033",
-            "expiry": "2026-09-04",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "JOY KUMAR",
             "key": "0923e46dbc96a9b029691a1dc130efb7947c0229921a0ff0012bdf3f1b274d4a",
             "expiry": "2026-09-04",
