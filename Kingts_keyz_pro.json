@@ -460,12 +460,12 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "29 Days left"
+            "st": "35 Days left"
         },
         {
             "name": "IRFAN SAMEER",
             "key": "d9c66c785a7e3f9aa148df5ab56924121266760dee6249aa67ecdcc104db6d05",
-            "expiry": "2026-10-04",
+            "expiry": "2026-10-10",
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
