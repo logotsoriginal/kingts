@@ -456,7 +456,7 @@
         {
             "name": "INZAMAM",
             "key": "bfebf7213ce8abb6220d55d2ecec13b473dde0a12e85aada88368af77b1cf376",
-            "expiry": "2026-10-04",
+            "expiry": "2026-10-10",
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
