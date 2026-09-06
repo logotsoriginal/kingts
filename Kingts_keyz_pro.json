@@ -13,15 +13,6 @@
     ],
     "licenses": [
         {
-            "name": "MANO RANJAN",
-            "key": "8c9795680d3ee85436dafe3367f779ebc80fd906b3410aa7422194844f97585a",
-            "expiry": "2026-09-05",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "0 Days left"
-        },
-        {
             "name": "GAURAV KUMAR",
             "key": "49d2f9438547a0cb6bcf266164a6cf400eceb0f73faf1f8ae73f8a5b0946bddb",
             "expiry": "2026-09-06",
