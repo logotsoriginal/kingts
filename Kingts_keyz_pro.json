@@ -475,6 +475,15 @@
             "name": "DEEPAK KUMAR",
             "key": "bc5f31bc35526c76e467a4eee4aac25d0007742b1e57ccc85c9d7d720bcf0c88",
             "expiry": "2026-10-07",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "VIKRAM",
+            "key": "9311a9660b273c187cbe0769ff2b29a13829b654edb257a6d3d7f55380b05900",
+            "expiry": "2026-10-07",
             "mode": "vip"
         }
     ]
