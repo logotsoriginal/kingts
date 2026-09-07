@@ -466,6 +466,15 @@
             "name": "CDD SONI",
             "key": "7b70d2f3b60977da6646c0162a6ee3069b0788df4d265aeadacfc41e046f2cc3",
             "expiry": "2026-10-07",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "HAFIJULLAH",
+            "key": "6111604b26ed672a4d938bcd1daf06f93105ae1bdd6f89d49ef227e97dc9686c",
+            "expiry": "2026-10-07",
             "mode": "vip"
         }
     ]
