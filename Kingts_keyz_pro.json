@@ -31,15 +31,6 @@
             "st": "32 Days left"
         },
         {
-            "name": "KISHORE KUMAR",
-            "key": "068248850e96fefb41813b06c69e9ef119d9be1efb5a8339bc81b4e39a7364b6",
-            "expiry": "2026-09-07",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "ASRAFUL",
             "key": "fee6b8f527bb306f88ca524439ea7ff7d32a19a65cbf183ec3e1715e05e298c7",
             "expiry": "2026-09-07",
