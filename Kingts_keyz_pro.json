@@ -31,15 +31,6 @@
             "st": "32 Days left"
         },
         {
-            "name": "ASRAFUL",
-            "key": "fee6b8f527bb306f88ca524439ea7ff7d32a19a65cbf183ec3e1715e05e298c7",
-            "expiry": "2026-09-07",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "KRATOS",
             "key": "b00123fab9d95906085e531c9f6cfbf2d16719450c1680042fcbc12c0f13844d",
             "expiry": "2026-09-08",
