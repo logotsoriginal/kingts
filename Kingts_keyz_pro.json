@@ -470,6 +470,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "29 Days left"
+        },
+        {
+            "name": "MD MODASSIR",
+            "key": "a9f62827b25fc5c8cfd96aa114588737aabececf5c8f3001b6f77df42ec7a52f",
+            "expiry": "2026-10-08",
+            "mode": "vip"
         }
     ]
 }
