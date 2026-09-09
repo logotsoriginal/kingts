@@ -475,6 +475,15 @@
             "name": "MD MODASSIR",
             "key": "a9f62827b25fc5c8cfd96aa114588737aabececf5c8f3001b6f77df42ec7a52f",
             "expiry": "2026-10-08",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "30 Days left"
+        },
+        {
+            "name": "IK TENDAL",
+            "key": "fbed8f8169016999b97dabca4fded4a27d85cac85f929e6e6f623d9495514db8",
+            "expiry": "2026-10-09",
             "mode": "vip"
         }
     ]
