@@ -40,15 +40,6 @@
             "st": "Expired"
         },
         {
-            "name": "AKTR BXR",
-            "key": "53abfbc40a0d16ed56f5660f6b605a35d628d13c91b9f645edb2885a60a7cd0d",
-            "expiry": "2026-09-09",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "TOXIC TS",
             "key": "51fc3efafa553c8d71b87086c6536d9dae4e79850dafac303b9e70a2a5a06350",
             "expiry": "2026-09-10",
