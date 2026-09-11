@@ -58,15 +58,6 @@
             "st": "0 Days left"
         },
         {
-            "name": "SUNIL",
-            "key": "d879c036d9f934c4ed72827acf1d4fac07ac5ab703ed47a930b36b49bcacffb4",
-            "expiry": "2026-09-10",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "0 Days left"
-        },
-        {
             "name": "GOLDEN",
             "key": "851c25699a89786822f4cb5d2fa98e3e9447e280cb46c979c9ec055bf938d08e",
             "expiry": "2026-09-11",
