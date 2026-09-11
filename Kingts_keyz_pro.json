@@ -49,15 +49,6 @@
             "st": "Expired"
         },
         {
-            "name": "RIYAZ",
-            "key": "3e08ae9b8d82a3f47c938360580d575645f8bb0327198fc928340fa971c18287",
-            "expiry": "2026-09-09",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "TOXIC TS",
             "key": "51fc3efafa553c8d71b87086c6536d9dae4e79850dafac303b9e70a2a5a06350",
             "expiry": "2026-09-10",
