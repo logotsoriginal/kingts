@@ -502,6 +502,15 @@
             "name": "KP",
             "key": "bc98ec8dc2d55264ef950e56bee2445c1d7fba4be0f962ef0ad20fdc7c54f8d3",
             "expiry": "2026-10-11",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "USR_9ATI",
+            "key": "2b2d0c3cc01c80ccc0e850f082d47be63a97680e40a49b0385ad30f7ca3764ec",
+            "expiry": "2026-10-11",
             "mode": "vip"
         }
     ]
