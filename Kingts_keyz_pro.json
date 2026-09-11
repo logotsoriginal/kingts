@@ -40,15 +40,6 @@
             "st": "0 Days left"
         },
         {
-            "name": "MUKUL",
-            "key": "919038b960b694198398473a4797b89081e609905a80211f63b5a3fe0a4f2340",
-            "expiry": "2026-09-10",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "0 Days left"
-        },
-        {
             "name": "GOLDEN",
             "key": "851c25699a89786822f4cb5d2fa98e3e9447e280cb46c979c9ec055bf938d08e",
             "expiry": "2026-09-11",
