@@ -511,6 +511,15 @@
             "name": "USR_9ATI",
             "key": "2b2d0c3cc01c80ccc0e850f082d47be63a97680e40a49b0385ad30f7ca3764ec",
             "expiry": "2026-10-11",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "VINOD G",
+            "key": "d78a750ef9fc1f52adfd80628b322de455df1d739c41544065efb5dc31b566d7",
+            "expiry": "2026-10-11",
             "mode": "vip"
         }
     ]
