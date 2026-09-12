@@ -31,15 +31,6 @@
             "st": "29 Days left"
         },
         {
-            "name": "RUNEWAY",
-            "key": "baf4040bc5afbeb25f659d949169f6d98fe72e1e06b9926df46c73816b0739fb",
-            "expiry": "2026-09-11",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "0 Days left"
-        },
-        {
             "name": "DEV M",
             "key": "3eee60251c23aa6032bccc8d343f60bd3d7d3babd342ab0525806fb83cf5aeb6",
             "expiry": "2026-09-12",
