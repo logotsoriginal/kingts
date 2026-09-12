@@ -380,6 +380,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "ASIFALI",
+            "key": "29d40bea12a7bac98e94682bb28736f83588f7f4371267265f3a307cd2f470d3",
+            "expiry": "2026-10-12",
+            "mode": "vip"
         }
     ]
 }
