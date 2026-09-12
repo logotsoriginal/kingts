@@ -292,15 +292,6 @@
             "st": "19 Days left"
         },
         {
-            "name": "KUNAL K",
-            "key": "41336405db474b2aa79c7fb0b5c72689bc2d90593331c2f06006333b74041774",
-            "expiry": "2026-09-10",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "ADMIN",
             "key": "50974ee536572dea5f73ac1d7c62a0e9ef46f939f56c6fdd2ae6f4aaa50e27a7",
             "expiry": "2030-10-02",
@@ -448,7 +439,10 @@
             "name": "RAHUL",
             "key": "7bcd8b53e638f7c0f840bad217a0bdf62228c21baae67f0c122e4d6d2c30165a",
             "expiry": "2026-10-12",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
         }
     ]
 }
