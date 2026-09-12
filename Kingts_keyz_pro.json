@@ -31,15 +31,6 @@
             "st": "29 Days left"
         },
         {
-            "name": "GOLDEN",
-            "key": "851c25699a89786822f4cb5d2fa98e3e9447e280cb46c979c9ec055bf938d08e",
-            "expiry": "2026-09-11",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "0 Days left"
-        },
-        {
             "name": "ASRAFUL",
             "key": "7a193f8fcdfb9e8246074d943d6174de88b9dc5327a042328481c8e5ef8343a9",
             "expiry": "2026-09-11",
