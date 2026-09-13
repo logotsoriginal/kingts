@@ -403,6 +403,15 @@
             "name": "RAJAT SASMAL",
             "key": "68381e41e6c6e783d43b9ca7c5898628f1fb0d47d9c552513fbc973257ac66de",
             "expiry": "2026-10-13",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "SHYAM",
+            "key": "04a7aff71cc79490da3796ffebbd24d67931841f5dbfaa7308f62fd0c3b5073c",
+            "expiry": "2026-10-13",
             "mode": "vip"
         }
     ]
