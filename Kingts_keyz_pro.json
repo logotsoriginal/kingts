@@ -402,8 +402,11 @@
         {
             "name": "MAHI",
             "key": "558522d0b9ef6613350aee47225d60857583738d12d64695201690a44529f81a",
-            "expiry": "2026-10-13",
-            "mode": "vip"
+            "expiry": "2026-10-18",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
         }
     ]
 }
