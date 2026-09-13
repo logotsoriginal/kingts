@@ -393,7 +393,7 @@
         {
             "name": "PRINCE",
             "key": "75a46c0320561edf46669d9a106eda1dec1c8e51243b0e65e69de1cb134d4157",
-            "expiry": "2026-10-13",
+            "expiry": "2026-10-18",
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
@@ -406,7 +406,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "31 Days left"
+            "st": "36 Days left"
         }
     ]
 }
