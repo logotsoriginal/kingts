@@ -389,6 +389,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "PRINCE",
+            "key": "75a46c0320561edf46669d9a106eda1dec1c8e51243b0e65e69de1cb134d4157",
+            "expiry": "2026-10-13",
+            "mode": "vip"
         }
     ]
 }
