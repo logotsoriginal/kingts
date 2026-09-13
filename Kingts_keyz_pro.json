@@ -412,6 +412,15 @@
             "name": "VIKASH SIR",
             "key": "cbc3518556349d6bfdfd98a82729ae35a389ab367e10af1d22eabe37c178e11e",
             "expiry": "2026-10-13",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "ASALAM",
+            "key": "a1a78835a78be33bdf87981950aaec0cb65deb8375d73dc39a441f0d162db2bd",
+            "expiry": "2026-10-13",
             "mode": "vip"
         }
     ]
