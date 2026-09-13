@@ -397,7 +397,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "31 Days left"
+            "st": "36 Days left"
         },
         {
             "name": "MAHI",
@@ -407,6 +407,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "36 Days left"
+        },
+        {
+            "name": "VIKASH SIR",
+            "key": "cbc3518556349d6bfdfd98a82729ae35a389ab367e10af1d22eabe37c178e11e",
+            "expiry": "2026-10-13",
+            "mode": "vip"
         }
     ]
 }
