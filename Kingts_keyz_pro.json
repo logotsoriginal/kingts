@@ -430,6 +430,15 @@
             "name": "MOJA MIA",
             "key": "03897dfc9e495eb3382af4754bc68595cdd15e7c8c0e98e26033a187dc552c54",
             "expiry": "2026-10-14",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "PRAKASH",
+            "key": "84cecb2be311209dc9c4c7093892356d975935c5a1736d3c158d5aeff08b8313",
+            "expiry": "2026-10-14",
             "mode": "vip"
         }
     ]
