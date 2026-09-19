@@ -31,15 +31,6 @@
             "st": "22 Days left"
         },
         {
-            "name": "G M SHAIKH",
-            "key": "355eb427aa1c6bbbe089f7d8186a1db0d93f9053139ab571ddee02e2c46ebac4",
-            "expiry": "2026-09-18",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "0 Days left"
-        },
-        {
             "name": "SR SR",
             "key": "88b288a99a2d960055a3b21f81ed10119f8082f522e6546f0bf5106a5ff2e6dc",
             "expiry": "2026-10-19",
