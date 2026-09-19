@@ -58,15 +58,6 @@
             "st": "Expired"
         },
         {
-            "name": "TATKAL GURU",
-            "key": "42bdb0a0e694bd9528c3a02519e8f906fe914820d11b34694b377959dc192fc3",
-            "expiry": "2026-09-14",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "G M SHAIKH",
             "key": "355eb427aa1c6bbbe089f7d8186a1db0d93f9053139ab571ddee02e2c46ebac4",
             "expiry": "2026-09-18",
