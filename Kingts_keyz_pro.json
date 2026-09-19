@@ -76,15 +76,6 @@
             "st": "Expired"
         },
         {
-            "name": "SONU",
-            "key": "331420f2a39acada789d95eb3a6f7b459382dab9b9a47137c335cdf28f03fd78",
-            "expiry": "2026-09-15",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "G M SHAIKH",
             "key": "355eb427aa1c6bbbe089f7d8186a1db0d93f9053139ab571ddee02e2c46ebac4",
             "expiry": "2026-09-18",
