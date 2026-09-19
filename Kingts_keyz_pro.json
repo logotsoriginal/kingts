@@ -49,15 +49,6 @@
             "st": "Expired"
         },
         {
-            "name": "RATNESH RAJBHAR",
-            "key": "c6f18a83c556f5108e7a1db2abbc1c80d84149f6fabace2be1ab02504b6677ae",
-            "expiry": "2026-09-13",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "G M SHAIKH",
             "key": "355eb427aa1c6bbbe089f7d8186a1db0d93f9053139ab571ddee02e2c46ebac4",
             "expiry": "2026-09-18",
