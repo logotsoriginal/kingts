@@ -40,15 +40,6 @@
             "st": "Expired"
         },
         {
-            "name": "EGNAS KUJUR",
-            "key": "6f833fd966fee77412cc0f29f35e3dbd099f23a3bd0e6876577e0209360e4925",
-            "expiry": "2026-09-13",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "G M SHAIKH",
             "key": "355eb427aa1c6bbbe089f7d8186a1db0d93f9053139ab571ddee02e2c46ebac4",
             "expiry": "2026-09-18",
