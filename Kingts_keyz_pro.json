@@ -31,15 +31,6 @@
             "st": "22 Days left"
         },
         {
-            "name": "ALAMGIR",
-            "key": "89a4318c2af69d806d5026aafe7121aef73b60e6933366fe4a29571085ca9ff6",
-            "expiry": "2026-09-15",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "G M SHAIKH",
             "key": "355eb427aa1c6bbbe089f7d8186a1db0d93f9053139ab571ddee02e2c46ebac4",
             "expiry": "2026-09-18",
