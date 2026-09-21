@@ -376,6 +376,15 @@
             "name": "ARJUN RABAT",
             "key": "a25c9262f158e1d23d5f27760bf865e29ba36cf8d52fb3f2bc6c7c902321f250",
             "expiry": "2026-10-21",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "ARYAN",
+            "key": "654f387ea5f1f384bf490a0ef2c23354ac0dda754cc9454f58aef87d4a35f74c",
+            "expiry": "2026-10-21",
             "mode": "vip"
         }
     ]
