@@ -385,6 +385,15 @@
             "name": "ARYAN",
             "key": "654f387ea5f1f384bf490a0ef2c23354ac0dda754cc9454f58aef87d4a35f74c",
             "expiry": "2026-10-21",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "PALTU GOLDAR",
+            "key": "86b00668c111177883bd96d8d4e08b80336c58a5657663803bdea834a7af094a",
+            "expiry": "2026-10-21",
             "mode": "vip"
         }
     ]
