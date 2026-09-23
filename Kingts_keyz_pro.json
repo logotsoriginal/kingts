@@ -19,7 +19,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "16 Days left"
+            "st": "14 Days left"
         },
         {
             "name": "AASHU GUPTA",
@@ -28,7 +28,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20 Days left"
+            "st": "18 Days left"
         },
         {
             "name": "SR SR",
@@ -37,43 +37,43 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "29 Days left"
+            "st": "27 Days left"
         },
         {
             "name": "PROART",
             "key": "68ec35b3346d0cf48b0a8c0ace7eb745f0fd00bfb72f9fa53e5deb46422f1f33",
             "expiry": "2026-09-20",
             "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "0 Days left"
+            "c": "var(--ios-red)",
+            "x": 1,
+            "st": "Expired"
         },
         {
             "name": "USR_4M6U",
             "key": "4e2f74c0be9876d0a1af11cce48f3118dd90ac4e6e8dda47f917e2905f2cb16e",
             "expiry": "2026-09-20",
             "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "0 Days left"
+            "c": "var(--ios-red)",
+            "x": 1,
+            "st": "Expired"
         },
         {
             "name": "VIKASH KUMAR",
             "key": "fcc499e133235b2f0a14d9dbf2530631983f1fdcade5f3a5ff15b40d30acb5c9",
             "expiry": "2026-09-20",
             "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "0 Days left"
+            "c": "var(--ios-red)",
+            "x": 1,
+            "st": "Expired"
         },
         {
             "name": "RU DON",
             "key": "73b9c17f83f030ef0088e9ffc8c298484fe2b6ca5402dffb4173238bcd2ff033",
             "expiry": "2026-09-21",
             "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "1 Days left"
+            "c": "var(--ios-red)",
+            "x": 1,
+            "st": "Expired"
         },
         {
             "name": "ASRAFUL",
@@ -82,7 +82,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "2 Days left"
+            "st": "0 Days left"
         },
         {
             "name": "UMAR",
@@ -91,7 +91,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "2 Days left"
+            "st": "0 Days left"
         },
         {
             "name": "SURAT",
@@ -100,7 +100,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "4 Days left"
+            "st": "2 Days left"
         },
         {
             "name": "RAHMAT",
@@ -109,7 +109,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "4 Days left"
+            "st": "2 Days left"
         },
         {
             "name": "MD RIYAZ",
@@ -118,7 +118,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "9 Days left"
+            "st": "7 Days left"
         },
         {
             "name": "ARSH",
@@ -127,7 +127,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "10 Days left"
+            "st": "8 Days left"
         },
         {
             "name": "ADMIN",
@@ -136,7 +136,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1473 Days left"
+            "st": "1471 Days left"
         },
         {
             "name": "INZAMAM",
@@ -145,7 +145,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20 Days left"
+            "st": "18 Days left"
         },
         {
             "name": "IRFAN SAMEER",
@@ -154,7 +154,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20 Days left"
+            "st": "18 Days left"
         },
         {
             "name": "PREM",
@@ -163,7 +163,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20 Days left"
+            "st": "18 Days left"
         },
         {
             "name": "TSA GROUP",
@@ -172,7 +172,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "16 Days left"
+            "st": "14 Days left"
         },
         {
             "name": "NAHID AHMAD",
@@ -181,7 +181,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "16 Days left"
+            "st": "14 Days left"
         },
         {
             "name": "CDD SONI",
@@ -190,7 +190,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "17 Days left"
+            "st": "15 Days left"
         },
         {
             "name": "HAFIJULLAH",
@@ -199,7 +199,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "17 Days left"
+            "st": "15 Days left"
         },
         {
             "name": "DEEPAK KUMAR",
@@ -208,7 +208,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "17 Days left"
+            "st": "15 Days left"
         },
         {
             "name": "VIKRAM",
@@ -217,7 +217,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "17 Days left"
+            "st": "15 Days left"
         },
         {
             "name": "MD MODASSIR",
@@ -226,7 +226,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "18 Days left"
+            "st": "16 Days left"
         },
         {
             "name": "IK TENDAL",
@@ -235,7 +235,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "19 Days left"
+            "st": "17 Days left"
         },
         {
             "name": "SANJEEV",
@@ -244,7 +244,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20 Days left"
+            "st": "18 Days left"
         },
         {
             "name": "KP",
@@ -253,7 +253,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "21 Days left"
+            "st": "19 Days left"
         },
         {
             "name": "USR_9ATI",
@@ -262,7 +262,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "21 Days left"
+            "st": "19 Days left"
         },
         {
             "name": "VINOD G",
@@ -271,7 +271,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "21 Days left"
+            "st": "19 Days left"
         },
         {
             "name": "RAHUL",
@@ -280,7 +280,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "22 Days left"
+            "st": "20 Days left"
         },
         {
             "name": "ASIFALI",
@@ -289,7 +289,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "22 Days left"
+            "st": "20 Days left"
         },
         {
             "name": "RAJEEV RANJAN",
@@ -298,7 +298,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "22 Days left"
+            "st": "20 Days left"
         },
         {
             "name": "RAJAT SASMAL",
@@ -307,7 +307,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "23 Days left"
+            "st": "21 Days left"
         },
         {
             "name": "SHYAM",
@@ -316,7 +316,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "23 Days left"
+            "st": "21 Days left"
         },
         {
             "name": "PRINCE",
@@ -325,7 +325,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "28 Days left"
+            "st": "26 Days left"
         },
         {
             "name": "MAHI",
@@ -334,7 +334,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "28 Days left"
+            "st": "26 Days left"
         },
         {
             "name": "VIKASH SIR",
@@ -343,7 +343,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "23 Days left"
+            "st": "21 Days left"
         },
         {
             "name": "ASALAM",
@@ -352,7 +352,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "23 Days left"
+            "st": "21 Days left"
         },
         {
             "name": "MOJA MIA",
@@ -361,7 +361,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24 Days left"
+            "st": "22 Days left"
         },
         {
             "name": "PRAKASH",
@@ -370,7 +370,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24 Days left"
+            "st": "22 Days left"
         },
         {
             "name": "ARJUN RABAT",
@@ -379,7 +379,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "31 Days left"
+            "st": "29 Days left"
         },
         {
             "name": "ARYAN",
@@ -388,12 +388,21 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "31 Days left"
+            "st": "29 Days left"
         },
         {
             "name": "PALTU GOLDAR",
             "key": "86b00668c111177883bd96d8d4e08b80336c58a5657663803bdea834a7af094a",
             "expiry": "2026-10-21",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "29 Days left"
+        },
+        {
+            "name": "AMIT",
+            "key": "6f36922e740be6f6c1d618c9a0bb63d7dc507212b96d4056d2c27d7847ff1755",
+            "expiry": "2026-10-23",
             "mode": "vip"
         }
     ]
