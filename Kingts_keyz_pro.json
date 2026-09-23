@@ -412,6 +412,15 @@
             "name": "AMIT1",
             "key": "cb5dde8e361ac8d47755ddd96bdae6cb89b99f68d4b835ea945e3eb5189740d6",
             "expiry": "2026-10-23",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "AMIT2",
+            "key": "15a2b215d760ae760256fb6d1023fc29b01819b4bf8d89d072e242d89ddb13d6",
+            "expiry": "2026-10-23",
             "mode": "vip"
         }
     ]
