@@ -448,6 +448,15 @@
             "name": "ABDUL BASIT",
             "key": "dd68d561e9772e80a472816d8b7209dbd3f47ac6fe9c97e98432330733539aa1",
             "expiry": "2026-10-26",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "SUFIYAN SHAIKH",
+            "key": "633ea8cb27e8fd5a3e82c13a03cfbd3d7854c9ef3813136a7d25c8a60a6cf5b7",
+            "expiry": "2026-10-26",
             "mode": "vip"
         }
     ]
