@@ -123,7 +123,7 @@
         {
             "name": "ARSH",
             "key": "da33e976862f629ac2ee5ccded8bd0325806c86812144edd6589810ea7cfe608",
-            "expiry": "2026-09-30",
+            "expiry": "2026-10-31",
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
@@ -457,7 +457,10 @@
             "name": "SUFIYAN SHAIKH",
             "key": "633ea8cb27e8fd5a3e82c13a03cfbd3d7854c9ef3813136a7d25c8a60a6cf5b7",
             "expiry": "2026-10-26",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
         }
     ]
 }
