@@ -40,15 +40,6 @@
             "st": "22 Days left"
         },
         {
-            "name": "PROART",
-            "key": "68ec35b3346d0cf48b0a8c0ace7eb745f0fd00bfb72f9fa53e5deb46422f1f33",
-            "expiry": "2026-09-20",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "USR_4M6U",
             "key": "4e2f74c0be9876d0a1af11cce48f3118dd90ac4e6e8dda47f917e2905f2cb16e",
             "expiry": "2026-09-20",
@@ -466,7 +457,10 @@
             "name": "DEMO",
             "key": "4ff006ca6b88e752f08cb7881714505ceb3d2079eea432acfda8e158e0d1d82e",
             "expiry": "2026-09-28",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-orange)",
+            "x": 0,
+            "st": "1 Days left"
         }
     ]
 }
