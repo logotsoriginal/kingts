@@ -40,15 +40,6 @@
             "st": "22 Days left"
         },
         {
-            "name": "RAHMAT",
-            "key": "af44e101d36f97de52c1001b548cda58163ec82e0d3bde12a78e3dd0517c1385",
-            "expiry": "2026-09-24",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "MD RIYAZ",
             "key": "8ec3c9b9ddcfe869da283418840f842f60cf04ffd3989478a749ae4aa1bd49ef",
             "expiry": "2026-09-29",
