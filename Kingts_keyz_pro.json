@@ -40,15 +40,6 @@
             "st": "22 Days left"
         },
         {
-            "name": "RU DON",
-            "key": "73b9c17f83f030ef0088e9ffc8c298484fe2b6ca5402dffb4173238bcd2ff033",
-            "expiry": "2026-09-21",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "ASRAFUL",
             "key": "f0071015f4dad85ce1d0dea8ed20b8daaac026e2783b0ed7345061749d6b9b7f",
             "expiry": "2026-09-22",
