@@ -393,8 +393,11 @@
         {
             "name": "DEMO",
             "key": "122b564c6d52e13ffeb97c8ff8f2b53ffc2db91530b0b5e57abb7b239532050d",
-            "expiry": "2026-09-28",
-            "mode": "vip"
+            "expiry": "2026-09-30",
+            "mode": "vip",
+            "c": "var(--ios-orange)",
+            "x": 0,
+            "st": "1 Days left"
         }
     ]
 }
