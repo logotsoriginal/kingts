@@ -403,6 +403,15 @@
             "name": "PRIYANSHU",
             "key": "d136c01a454f75d7f47afba3dc3dc696c7cbfdac5412d9a74c8504949b10e834",
             "expiry": "2026-10-30",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "MANNU",
+            "key": "2bc75f1710c4646422d476b97a5ff036ae0a68d069c495fc31abc85b4f234a51",
+            "expiry": "2026-10-30",
             "mode": "vip"
         }
     ]
