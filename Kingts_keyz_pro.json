@@ -410,9 +410,12 @@
         },
         {
             "name": "MANNU",
-            "key": "2bc75f1710c4646422d476b97a5ff036ae0a68d069c495fc31abc85b4f234a51",
+            "key": "9bf16bf3bd96c37379c5ab42220e84eafa1b1d3ab7a8db1587097e0c551e6445",
             "expiry": "2026-10-30",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
         }
     ]
 }
