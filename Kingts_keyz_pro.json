@@ -416,6 +416,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "DEV M",
+            "key": "e83313211791cdb137129620575d96affb380436736444f6e6d67819a85c4c23",
+            "expiry": "2026-10-30",
+            "mode": "vip"
         }
     ]
 }
