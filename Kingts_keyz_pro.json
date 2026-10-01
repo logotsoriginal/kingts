@@ -425,6 +425,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "30 Days left"
+        },
+        {
+            "name": "BALRAM BHAI",
+            "key": "1b99f2aba133b0d3335c1802a1d4711d7855b13dc547b86cf0d285d7f7874510",
+            "expiry": "2026-11-01",
+            "mode": "vip"
         }
     ]
 }
