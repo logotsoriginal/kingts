@@ -425,12 +425,6 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "30 Days left"
-        },
-        {
-            "name": "DEMO",
-            "key": "089af02632d576c4347c522ccaa8e0c5e790983d8e769ddf7670422f792d7b7b",
-            "expiry": "2026-10-05",
-            "mode": "vip"
         }
     ]
 }
