@@ -434,12 +434,6 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
-        },
-        {
-            "name": "USR_RY1W",
-            "key": "415f6b3d05112972754c553b9c3d046acdea8876664c6fea6d79c1ed5c97bf8c",
-            "expiry": "2026-10-05",
-            "mode": "vip"
         }
     ]
 }
