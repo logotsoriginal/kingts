@@ -1,7 +1,7 @@
 {
     "update_log": [
         {
-            "version": "1.0.5",
+            "version": "1.0.6",
             "downloadlink": "https://www.mediafire.com/file/2il0mm7exlq8fvc/KING_TS_v1.0.5.zip/file",
             "mobile_sutep": "https://youtu.be/msmdhcg-u9M?si=cb3mvNwX1yGtkUyv",
             "laptop_sutep": "https://youtu.be/uiuHQbytLmQ",
@@ -430,7 +430,10 @@
             "name": "VENK",
             "key": "985d8c0a0a7a2f326a3671945fe346687d8b173471d54ce5ef9908136ae5067d",
             "expiry": "2026-11-04",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
