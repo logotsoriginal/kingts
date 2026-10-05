@@ -466,6 +466,15 @@
             "name": "DILIP PANDIT",
             "key": "b5864ca211c728e937fe317513b93073657495fb6102418b7e52ae83fd3e7cc1",
             "expiry": "2026-11-05",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "TUKTUK",
+            "key": "d38a84ff36950b77d190cce9828e0062170f8c700060c2cb42778fcab0c1c33b",
+            "expiry": "2026-11-05",
             "mode": "vip"
         }
     ]
