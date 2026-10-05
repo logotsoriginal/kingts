@@ -190,7 +190,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "7 Days left"
+            "st": "38 Days left"
         },
         {
             "name": "RAHUL",
@@ -443,6 +443,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "32 Days left"
+        },
+        {
+            "name": "VIJAY",
+            "key": "66dc0c692b7f39192eee35623b4f6c32f2a3a430a427d148e072807211402073",
+            "expiry": "2026-11-05",
+            "mode": "vip"
         }
     ]
 }
