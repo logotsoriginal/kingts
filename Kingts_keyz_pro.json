@@ -186,7 +186,7 @@
         {
             "name": "VINOD G",
             "key": "d78a750ef9fc1f52adfd80628b322de455df1d739c41544065efb5dc31b566d7",
-            "expiry": "2026-10-11",
+            "expiry": "2026-11-11",
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
@@ -439,7 +439,10 @@
             "name": "STR",
             "key": "9365a28bf13d11cf07ca432646b9428eed0096e7e3cc5b3dc74c1f3319f66aaf",
             "expiry": "2026-11-05",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
