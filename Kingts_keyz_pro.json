@@ -28,7 +28,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "6 Days left"
+            "st": "40 Days left"
         },
         {
             "name": "SR SR",
@@ -461,6 +461,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "32 Days left"
+        },
+        {
+            "name": "DILIP PANDIT",
+            "key": "b5864ca211c728e937fe317513b93073657495fb6102418b7e52ae83fd3e7cc1",
+            "expiry": "2026-11-05",
+            "mode": "vip"
         }
     ]
 }
