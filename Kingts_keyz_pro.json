@@ -448,6 +448,15 @@
             "name": "VIJAY",
             "key": "66dc0c692b7f39192eee35623b4f6c32f2a3a430a427d148e072807211402073",
             "expiry": "2026-11-05",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "DEMO",
+            "key": "f24d526e748c85e88906c227a63daaa110a8e70cea5b8d2887a7efe6b1782682",
+            "expiry": "2026-11-10",
             "mode": "vip"
         }
     ]
