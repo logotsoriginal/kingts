@@ -475,6 +475,15 @@
             "name": "TUKTUK",
             "key": "d38a84ff36950b77d190cce9828e0062170f8c700060c2cb42778fcab0c1c33b",
             "expiry": "2026-11-05",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "MANO RANJAN",
+            "key": "5c9a4fddf4a8eb0e639d5c90a8040cfa442c1585bb1b9cacf131aaac90bcecfa",
+            "expiry": "2026-11-05",
             "mode": "vip"
         }
     ]
