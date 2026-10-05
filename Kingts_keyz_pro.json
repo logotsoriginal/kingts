@@ -452,6 +452,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "32 Days left"
+        },
+        {
+            "name": "MR X",
+            "key": "dd32084f0612f0d09a9b83be97cc45f9141224c58206eaa85e84f7eb8bfb6c7a",
+            "expiry": "2026-11-05",
+            "mode": "vip"
         }
     ]
 }
