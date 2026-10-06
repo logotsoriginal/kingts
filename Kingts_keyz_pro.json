@@ -3,7 +3,7 @@
         {
             "version": "1.0.5",
             "downloadlink": "https://www.mediafire.com/file/2il0mm7exlq8fvc/KING_TS_v1.0.5.zip/file",
-            "mobile_apk": "https://www.mediafire.com/file/2il0mm7exlq8fvc/KING_TS_v1.0.5.zip/file",
+            "mobile_apk": "https://www.mediafire.com/file/wyfo78wkw9ddy64/KING+MOBILE.apk/file",
             "mobile_sutep_videos": "https://files.catbox.moe/hru6v5.mp4",
             "software_link": "https://www.mediafire.com/file/2il0mm7exlq8fvc/KING_TS_v1.0.5.zip/file",
             "software_sutep_videos": "https://files.catbox.moe/hru6v5.mp4",
@@ -495,7 +495,10 @@
             "name": "DEMO",
             "key": "e44b89fd7a67338dfda283290cee9d71da26dc7f0049a91dc95d55eee2091bb5",
             "expiry": "2026-11-06",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
