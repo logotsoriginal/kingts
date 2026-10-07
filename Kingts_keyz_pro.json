@@ -10,7 +10,7 @@
             "telegram_channel": "https://t.me/logotstatkal",
             "telegram_dm": "https://t.me/kingts_official",
             "extension_link": "https://www.mediafire.com/file/2il0mm7exlq8fvc/KING_TS_v1.0.5.zip?dkey",
-            "extension_setup_videos": "https://cdn.wapka.org/00hl7u/9ab1ba77723a47e186c75ef351b90294/extension_sutep_videos.mp4"
+            "extension_setup_videos": "https://youtu.be/Nn-0VnZImzY?si=xZCUNsmaHEKeI5-u"
         }
     ],
     "licenses": [
@@ -486,7 +486,10 @@
             "name": "RENEWAY",
             "key": "2c48b7bbce0d5b520afed76e12676afa80a6ff065f97142de11ace174b2cd510",
             "expiry": "2026-11-07",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
         }
     ]
 }
