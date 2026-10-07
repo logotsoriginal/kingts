@@ -481,6 +481,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "30 Days left"
+        },
+        {
+            "name": "RENEWAY",
+            "key": "2c48b7bbce0d5b520afed76e12676afa80a6ff065f97142de11ace174b2cd510",
+            "expiry": "2026-11-07",
+            "mode": "vip"
         }
     ]
 }
