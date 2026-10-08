@@ -10,7 +10,7 @@
             "telegram_channel": "https://t.me/logotstatkal",
             "telegram_dm": "https://t.me/kingts_official",
             "extension_link": "https://www.mediafire.com/file/2il0mm7exlq8fvc/KING_TS_v1.0.5.zip?dkey",
-            "extension_setup_videos": "https://youtu.be/Nn-0VnZImzY?si=xZCUNsmaHEKeI5-u"
+            "extension_setup_videos": "https://ia903108.us.archive.org/32/items/video_20261006_202635_edit/video_20261006_202635_edit.mp4"
         }
     ],
     "licenses": [
@@ -495,7 +495,10 @@
             "name": "DEMO",
             "key": "96f090e085a4b5f08ff47edc53f2bcb87b79f18a4cf6640905d7505d382d7e52",
             "expiry": "2026-10-10",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "var(--ios-orange)",
+            "x": 0,
+            "st": "3 Days left"
         }
     ]
 }
