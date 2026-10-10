@@ -96,15 +96,6 @@
             "st": "Expired"
         },
         {
-            "name": "CDD SONI",
-            "key": "7b70d2f3b60977da6646c0162a6ee3069b0788df4d265aeadacfc41e046f2cc3",
-            "expiry": "2026-10-07",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "DEEPAK KUMAR",
             "key": "bc5f31bc35526c76e467a4eee4aac25d0007742b1e57ccc85c9d7d720bcf0c88",
             "expiry": "2026-11-07",
