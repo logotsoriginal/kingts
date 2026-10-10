@@ -387,6 +387,15 @@
             "name": "MMI",
             "key": "7c6fa2b2d83bad758d492c176e9a05e36a7808346e23ce8e5521c42ad69f1de8",
             "expiry": "2026-11-10",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "ASRAFUL",
+            "key": "47a48befb50f38427ca8330ac1ada40cbef588c3091f7a094e3ada46f6cd90d8",
+            "expiry": "2026-11-10",
             "mode": "vip"
         }
     ]
