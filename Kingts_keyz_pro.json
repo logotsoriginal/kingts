@@ -373,6 +373,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "29 Days left"
+        },
+        {
+            "name": "PRAKASH",
+            "key": "3eba0c41f7fe531dc6b7c336acd5cdd2381bb1e1b6838965e5ca6a1b7fe296bb",
+            "expiry": "2026-11-10",
+            "mode": "vip"
         }
     ]
 }
