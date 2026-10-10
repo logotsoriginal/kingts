@@ -373,15 +373,6 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "29 Days left"
-        },
-        {
-            "name": "WOMEN",
-            "key": "4ff006ca6b88e752f08cb7881714505ceb3d2079eea432acfda8e158e0d1d82e",
-            "expiry": "2026-10-15",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "6 Days left"
         }
     ]
 }
