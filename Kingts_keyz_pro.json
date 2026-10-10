@@ -87,15 +87,6 @@
             "st": "Expired"
         },
         {
-            "name": "NAHID AHMAD",
-            "key": "56e5b4bf70c7f2dfb0f877d46e4bdfb65d15124a8e6c506b190a7431ab37b1ab",
-            "expiry": "2026-10-06",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "DEEPAK KUMAR",
             "key": "bc5f31bc35526c76e467a4eee4aac25d0007742b1e57ccc85c9d7d720bcf0c88",
             "expiry": "2026-11-07",
