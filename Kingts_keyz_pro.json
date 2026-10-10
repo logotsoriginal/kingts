@@ -69,15 +69,6 @@
             "st": "1 Days left"
         },
         {
-            "name": "PREM",
-            "key": "22f8d17a826da8a481fc9b4fa2d04a3f8e71183d7e0bc9be73aa79d5944c002e",
-            "expiry": "2026-10-10",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "1 Days left"
-        },
-        {
             "name": "DEEPAK KUMAR",
             "key": "bc5f31bc35526c76e467a4eee4aac25d0007742b1e57ccc85c9d7d720bcf0c88",
             "expiry": "2026-11-07",
