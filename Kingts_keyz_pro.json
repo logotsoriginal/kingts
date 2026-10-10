@@ -105,15 +105,6 @@
             "st": "Expired"
         },
         {
-            "name": "HAFIJULLAH",
-            "key": "6111604b26ed672a4d938bcd1daf06f93105ae1bdd6f89d49ef227e97dc9686c",
-            "expiry": "2026-10-07",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "DEEPAK KUMAR",
             "key": "bc5f31bc35526c76e467a4eee4aac25d0007742b1e57ccc85c9d7d720bcf0c88",
             "expiry": "2026-11-07",
