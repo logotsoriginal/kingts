@@ -378,6 +378,15 @@
             "name": "PRAKASH",
             "key": "3eba0c41f7fe531dc6b7c336acd5cdd2381bb1e1b6838965e5ca6a1b7fe296bb",
             "expiry": "2026-11-10",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "MMI",
+            "key": "7c6fa2b2d83bad758d492c176e9a05e36a7808346e23ce8e5521c42ad69f1de8",
+            "expiry": "2026-11-10",
             "mode": "vip"
         }
     ]
