@@ -123,15 +123,6 @@
             "st": "29 Days left"
         },
         {
-            "name": "VIKRAM",
-            "key": "9311a9660b273c187cbe0769ff2b29a13829b654edb257a6d3d7f55380b05900",
-            "expiry": "2026-10-07",
-            "mode": "vip",
-            "c": "var(--ios-red)",
-            "x": 1,
-            "st": "Expired"
-        },
-        {
             "name": "IK TENDAL",
             "key": "fbed8f8169016999b97dabca4fded4a27d85cac85f929e6e6f623d9495514db8",
             "expiry": "2026-10-09",
