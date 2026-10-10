@@ -60,15 +60,6 @@
             "st": "29 Days left"
         },
         {
-            "name": "IK TENDAL",
-            "key": "fbed8f8169016999b97dabca4fded4a27d85cac85f929e6e6f623d9495514db8",
-            "expiry": "2026-10-09",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "0 Days left"
-        },
-        {
             "name": "SANJEEV",
             "key": "70a70025a2c18468dfaccaabbd4be04c940e22018efed86640a37383ea83654e",
             "expiry": "2026-10-10",
