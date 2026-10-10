@@ -60,15 +60,6 @@
             "st": "29 Days left"
         },
         {
-            "name": "SANJEEV",
-            "key": "70a70025a2c18468dfaccaabbd4be04c940e22018efed86640a37383ea83654e",
-            "expiry": "2026-10-10",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "1 Days left"
-        },
-        {
             "name": "KP",
             "key": "bc98ec8dc2d55264ef950e56bee2445c1d7fba4be0f962ef0ad20fdc7c54f8d3",
             "expiry": "2026-10-11",
