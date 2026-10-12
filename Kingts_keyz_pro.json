@@ -337,6 +337,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "30 Days left"
+        },
+        {
+            "name": "D",
+            "key": "4ff006ca6b88e752f08cb7881714505ceb3d2079eea432acfda8e158e0d1d82e",
+            "expiry": "2026-11-12",
+            "mode": "vip"
         }
     ]
 }
