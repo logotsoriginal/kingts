@@ -429,12 +429,6 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "31D LEFT"
-        },
-        {
-            "name": "USER_9D9U",
-            "key": "819effc1626a395b57749e40eea47015e98d093910884223be19294fbb88b914",
-            "expiry": "2026-11-13",
-            "mode": "vip"
         }
     ]
 }
