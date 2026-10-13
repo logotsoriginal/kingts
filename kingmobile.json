@@ -347,12 +347,6 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
-        },
-        {
-            "name": "USR_260G",
-            "key": "402bc3bb01317f899e0cf7c202a7dc4fd79c6a67a7fb1c37c7909dc67953b0b8",
-            "expiry": "2026-11-13",
-            "mode": "vip"
         }
     ]
 }
