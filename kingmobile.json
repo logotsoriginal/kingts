@@ -347,12 +347,6 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
-        },
-        {
-            "name": "USR_6ECU",
-            "key": "923786c196ae40d52d50610889560c7f96479408a4045118dd7b638101a1302f",
-            "expiry": "2026-11-13",
-            "mode": "vip"
         }
     ]
 }
