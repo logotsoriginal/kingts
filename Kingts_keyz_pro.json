@@ -337,6 +337,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "29 Days left"
+        },
+        {
+            "name": "MUKKI",
+            "key": "03887b6ea7776d353758a1bda24b80aa87359d81702653e42b7760ddc761e19b",
+            "expiry": "2026-11-13",
+            "mode": "vip"
         }
     ]
 }
