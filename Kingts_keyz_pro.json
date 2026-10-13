@@ -21,7 +21,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "32 Days left"
+            "st": "31D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "SR SR",
@@ -30,7 +32,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "7 Days left"
+            "st": "6D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "ARSH",
@@ -39,7 +43,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "19 Days left"
+            "st": "18D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "ADMIN",
@@ -48,7 +54,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1451 Days left"
+            "st": "1450D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "DEEPAK KUMAR",
@@ -57,7 +65,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "26 Days left"
+            "st": "25D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "VINOD G",
@@ -66,7 +76,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "30 Days left"
+            "st": "29D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "PRINCE",
@@ -75,7 +87,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "6 Days left"
+            "st": "5D LEFT",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
+            "isExp": false
         },
         {
             "name": "MAHI",
@@ -84,7 +98,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "6 Days left"
+            "st": "5D LEFT",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
+            "isExp": false
         },
         {
             "name": "MOJA MIA",
@@ -93,7 +109,9 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "2 Days left"
+            "st": "1D LEFT",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
+            "isExp": false
         },
         {
             "name": "PRAKASH",
@@ -102,7 +120,9 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "2 Days left"
+            "st": "1D LEFT",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
+            "isExp": false
         },
         {
             "name": "ARJUN RABAT",
@@ -111,7 +131,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "9 Days left"
+            "st": "8D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "ARYAN",
@@ -120,7 +142,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "9 Days left"
+            "st": "8D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "PALTU GOLDAR",
@@ -129,7 +153,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "9 Days left"
+            "st": "8D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "AMIT",
@@ -138,7 +164,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "11 Days left"
+            "st": "10D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "AMIT1",
@@ -147,7 +175,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "11 Days left"
+            "st": "10D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "AMIT2",
@@ -156,7 +186,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "11 Days left"
+            "st": "10D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "ABHISHEK",
@@ -165,7 +197,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "11 Days left"
+            "st": "10D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "DEEPAK KUMAR",
@@ -174,7 +208,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "12 Days left"
+            "st": "11D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "ABDUL BASIT",
@@ -183,7 +219,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "14 Days left"
+            "st": "13D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "SUFIYAN SHAIKH",
@@ -192,7 +230,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "14 Days left"
+            "st": "13D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "RISHIKESH",
@@ -201,7 +241,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20 Days left"
+            "st": "19D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "PRIYANSHU",
@@ -210,7 +252,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "18 Days left"
+            "st": "17D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "MANNU",
@@ -219,7 +263,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "18 Days left"
+            "st": "17D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "DEV M",
@@ -228,7 +274,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "18 Days left"
+            "st": "17D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "BALRAM BHAI",
@@ -237,7 +285,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20 Days left"
+            "st": "19D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "VENK",
@@ -246,7 +296,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "23 Days left"
+            "st": "22D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "STR",
@@ -255,7 +307,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24 Days left"
+            "st": "23D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "VIJAY",
@@ -264,7 +318,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24 Days left"
+            "st": "23D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "MR X",
@@ -273,7 +329,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24 Days left"
+            "st": "23D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "DILIP PANDIT",
@@ -282,7 +340,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24 Days left"
+            "st": "23D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "TUKTUK",
@@ -291,7 +351,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24 Days left"
+            "st": "23D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "MANO RANJAN",
@@ -300,7 +362,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24 Days left"
+            "st": "23D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "RENEWAY",
@@ -309,7 +373,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "26 Days left"
+            "st": "25D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "PRAKASH",
@@ -318,7 +384,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "29 Days left"
+            "st": "28D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "MMI",
@@ -327,7 +395,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "29 Days left"
+            "st": "28D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "ASRAFUL",
@@ -336,7 +406,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "29 Days left"
+            "st": "28D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "MUKKI",
@@ -345,11 +417,22 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "32 Days left"
+            "st": "31D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
         },
         {
             "name": "CDD SONI",
             "key": "4fc5e4e4eca37b83e3915080cdfe45130dbcc5c3e4ddfef8ebfa51ea55b52ef3",
+            "expiry": "2026-11-13",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
+        },
+        {
+            "name": "USER_9D9U",
+            "key": "819effc1626a395b57749e40eea47015e98d093910884223be19294fbb88b914",
             "expiry": "2026-11-13",
             "mode": "vip"
         }
