@@ -423,15 +423,6 @@
             "st": "31D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
-        },
-        {
-            "name": "USR_DHTE",
-            "key": "2613c41cd5176be269e9e99f9591782aeb4e893b0357fde5718eddd05e8d58fd",
-            "expiry": "2026-11-13",
-            "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
-            "isExp": false,
-            "st": "31D LEFT"
         }
     ]
 }
