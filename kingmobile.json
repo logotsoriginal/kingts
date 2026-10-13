@@ -432,12 +432,6 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "31D LEFT"
-        },
-        {
-            "name": "USER_29XB",
-            "key": "ebd98fecc8531bbd4c06fa756be551438fd8913a7f07fb46c9dc756dab2b4214",
-            "expiry": "2026-11-13",
-            "mode": "vip"
         }
     ]
 }
