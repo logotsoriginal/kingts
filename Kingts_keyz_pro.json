@@ -429,12 +429,6 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "31D LEFT"
-        },
-        {
-            "name": "USER_HO6D",
-            "key": "582676d293cb912e225aa1545a1d8700798f83d613e80dba245051c86ef2c602",
-            "expiry": "2026-11-13",
-            "mode": "vip"
         }
     ]
 }
