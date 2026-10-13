@@ -342,6 +342,15 @@
             "name": "MUKKI",
             "key": "03887b6ea7776d353758a1bda24b80aa87359d81702653e42b7760ddc761e19b",
             "expiry": "2026-11-13",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "32 Days left"
+        },
+        {
+            "name": "CDD SONI",
+            "key": "4fc5e4e4eca37b83e3915080cdfe45130dbcc5c3e4ddfef8ebfa51ea55b52ef3",
+            "expiry": "2026-11-13",
             "mode": "vip"
         }
     ]
