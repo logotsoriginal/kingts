@@ -347,6 +347,12 @@
             "c": "var(--ios-green)",
             "x": 0,
             "st": "31 Days left"
+        },
+        {
+            "name": "USR_JEZ2",
+            "key": "48d73101775b428b86af4dfae8bae71e82cca234fcc6f125bddee024649167fa",
+            "expiry": "2026-11-13",
+            "mode": "vip"
         }
     ]
 }
