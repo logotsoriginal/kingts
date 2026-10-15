@@ -1,7 +1,7 @@
 {
     "update_log": [
         {
-            "version": "1.0.6",
+            "version": "1.0.7",
             "downloadlink": "https://kingts.wapka.fun/"
         }
     ],
@@ -428,7 +428,10 @@
             "name": "UMESH MAHTO",
             "key": "71275827ab91563d5911f879ee1311b73c36736fa5139cb46ed763f2b347e055",
             "expiry": "2026-11-15",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
         }
     ]
 }
