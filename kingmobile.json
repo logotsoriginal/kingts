@@ -101,8 +101,8 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "0D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
+            "st": "31D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
         {
@@ -423,6 +423,12 @@
             "st": "30D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
+        },
+        {
+            "name": "UMESH MAHTO",
+            "key": "71275827ab91563d5911f879ee1311b73c36736fa5139cb46ed763f2b347e055",
+            "expiry": "2026-11-15",
+            "mode": "vip"
         }
     ]
 }
