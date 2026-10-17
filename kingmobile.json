@@ -185,11 +185,11 @@
         {
             "name": "ABHISHEK",
             "key": "e37370f9dfb3035bccf138261820fcea2628f573f6617639dfaa4a8d39d60afb",
-            "expiry": "2026-12-30",
+            "expiry": "2026-12-31",
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "68D LEFT",
+            "st": "75D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
