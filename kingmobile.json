@@ -13,7 +13,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "28D LEFT",
+            "st": "27D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -24,7 +24,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "3D LEFT",
+            "st": "2D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -35,7 +35,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "15D LEFT",
+            "st": "14D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -46,7 +46,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1447D LEFT",
+            "st": "1446D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -57,7 +57,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "22D LEFT",
+            "st": "21D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -68,7 +68,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "26D LEFT",
+            "st": "25D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -79,7 +79,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "2D LEFT",
+            "st": "1D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -90,7 +90,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "2D LEFT",
+            "st": "1D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -101,7 +101,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "29D LEFT",
+            "st": "28D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -123,7 +123,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -134,7 +134,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -145,7 +145,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -156,7 +156,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "7D LEFT",
+            "st": "6D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -167,7 +167,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "7D LEFT",
+            "st": "6D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -178,7 +178,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "7D LEFT",
+            "st": "6D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -200,7 +200,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "8D LEFT",
+            "st": "7D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -211,7 +211,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "10D LEFT",
+            "st": "9D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -222,7 +222,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "10D LEFT",
+            "st": "9D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -233,7 +233,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "16D LEFT",
+            "st": "15D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -244,7 +244,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "14D LEFT",
+            "st": "13D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -255,7 +255,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "14D LEFT",
+            "st": "13D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -266,7 +266,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "14D LEFT",
+            "st": "13D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -277,7 +277,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "16D LEFT",
+            "st": "15D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -288,7 +288,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "19D LEFT",
+            "st": "18D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -299,7 +299,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20D LEFT",
+            "st": "19D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -310,7 +310,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20D LEFT",
+            "st": "19D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -321,7 +321,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20D LEFT",
+            "st": "19D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -332,7 +332,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20D LEFT",
+            "st": "19D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -343,7 +343,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20D LEFT",
+            "st": "19D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -354,7 +354,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "20D LEFT",
+            "st": "19D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -365,7 +365,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "22D LEFT",
+            "st": "21D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -376,7 +376,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "25D LEFT",
+            "st": "24D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -387,7 +387,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "25D LEFT",
+            "st": "24D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -398,7 +398,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "25D LEFT",
+            "st": "24D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -409,7 +409,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "28D LEFT",
+            "st": "27D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -420,7 +420,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "28D LEFT",
+            "st": "27D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -431,7 +431,13 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "30D LEFT"
+            "st": "29D LEFT"
+        },
+        {
+            "name": "USER_OFF0",
+            "key": "afe7c98e4df756414f4b7b973c46c22648f9c6cb7eae0beb7f9e561f031195eb",
+            "expiry": "2026-11-18",
+            "mode": "vip"
         }
     ]
 }
