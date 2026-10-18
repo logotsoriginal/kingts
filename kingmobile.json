@@ -31,7 +31,7 @@
         {
             "name": "ARSH",
             "key": "da33e976862f629ac2ee5ccded8bd0325806c86812144edd6589810ea7cfe608",
-            "expiry": "2026-10-31",
+            "expiry": "2026-12-30",
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
