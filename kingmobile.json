@@ -435,6 +435,15 @@
             "name": "AJAY KUMAR",
             "key": "e1cb0671fabbd0b45f98ab3bfd54dc60770ced765123df548cc0335cf3bc0bbf",
             "expiry": "2026-11-18",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
+        },
+        {
+            "name": "USER_HWMI",
+            "key": "4bfa9498f7fd89b4ba5c469594c964234a74cfa29d85e92529b6643e8a79810b",
+            "expiry": "2026-11-18",
             "mode": "vip"
         }
     ]
