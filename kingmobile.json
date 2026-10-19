@@ -13,7 +13,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "27D LEFT",
+            "st": "26D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -24,7 +24,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "2D LEFT",
+            "st": "1D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -35,7 +35,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "74D LEFT",
+            "st": "73D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -46,7 +46,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1446D LEFT",
+            "st": "1445D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -57,7 +57,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "21D LEFT",
+            "st": "20D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -68,7 +68,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "25D LEFT",
+            "st": "24D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -79,7 +79,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "1D LEFT",
+            "st": "0D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -90,7 +90,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "1D LEFT",
+            "st": "0D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -101,7 +101,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "28D LEFT",
+            "st": "27D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -112,7 +112,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "4D LEFT",
+            "st": "3D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -123,7 +123,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "4D LEFT",
+            "st": "3D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -134,7 +134,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "4D LEFT",
+            "st": "3D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -145,8 +145,8 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "6D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "st": "5D LEFT",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
         {
@@ -156,8 +156,8 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "6D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "st": "5D LEFT",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
         {
@@ -167,8 +167,8 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "6D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "st": "5D LEFT",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
         {
@@ -178,7 +178,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "75D LEFT",
+            "st": "74D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -189,7 +189,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "7D LEFT",
+            "st": "6D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -200,7 +200,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "9D LEFT",
+            "st": "8D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -211,7 +211,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "9D LEFT",
+            "st": "8D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -222,7 +222,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "15D LEFT",
+            "st": "14D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -233,7 +233,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "13D LEFT",
+            "st": "12D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -244,7 +244,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "13D LEFT",
+            "st": "12D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -255,7 +255,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "13D LEFT",
+            "st": "12D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -266,7 +266,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "15D LEFT",
+            "st": "14D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -277,7 +277,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "18D LEFT",
+            "st": "17D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -288,7 +288,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "19D LEFT",
+            "st": "18D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -299,7 +299,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "19D LEFT",
+            "st": "18D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -310,7 +310,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "19D LEFT",
+            "st": "18D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -321,7 +321,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "19D LEFT",
+            "st": "18D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -332,7 +332,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "19D LEFT",
+            "st": "18D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -343,7 +343,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "19D LEFT",
+            "st": "18D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -354,7 +354,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "21D LEFT",
+            "st": "20D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -365,7 +365,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24D LEFT",
+            "st": "23D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -376,7 +376,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24D LEFT",
+            "st": "23D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -387,7 +387,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "24D LEFT",
+            "st": "23D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -398,7 +398,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "27D LEFT",
+            "st": "26D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -409,7 +409,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "27D LEFT",
+            "st": "26D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -420,7 +420,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "29D LEFT"
+            "st": "28D LEFT"
         },
         {
             "name": "USER_OFF0",
@@ -429,7 +429,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "32D LEFT"
+            "st": "31D LEFT"
         },
         {
             "name": "AJAY KUMAR",
@@ -438,12 +438,21 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "32D LEFT"
+            "st": "31D LEFT"
         },
         {
             "name": "USER_HWMI",
             "key": "4bfa9498f7fd89b4ba5c469594c964234a74cfa29d85e92529b6643e8a79810b",
             "expiry": "2026-11-18",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
+        },
+        {
+            "name": "SULTAN",
+            "key": "6b5a7cdc7a93bd89d7504630896e69c26cae3fd567cec6004691a97eed28cf88",
+            "expiry": "2026-11-19",
             "mode": "vip"
         }
     ]
