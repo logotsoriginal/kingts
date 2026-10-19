@@ -453,6 +453,15 @@
             "name": "SULTAN",
             "key": "6b5a7cdc7a93bd89d7504630896e69c26cae3fd567cec6004691a97eed28cf88",
             "expiry": "2026-11-19",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
+        },
+        {
+            "name": "MAHESH",
+            "key": "426489ce80c1da7ae954e8233576c0e941bb679a307e28d1ed0249fe4a506522",
+            "expiry": "2026-11-19",
             "mode": "vip"
         }
     ]
