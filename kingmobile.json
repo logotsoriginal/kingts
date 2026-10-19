@@ -466,12 +466,6 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "32D LEFT"
-        },
-        {
-            "name": "USER_BQ51",
-            "key": "c46e148270ff88ab60c67e1689a37fecef07015690b289c00463427f15cd81cb",
-            "expiry": "2026-11-19",
-            "mode": "vip"
         }
     ]
 }
