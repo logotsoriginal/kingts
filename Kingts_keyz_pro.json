@@ -180,17 +180,6 @@
             "isExp": false
         },
         {
-            "name": "RISHIKESH",
-            "key": "f02aff354ff3acd7d221bd65a276d4efd933370dd4fb3a14605a86afd06ad36c",
-            "expiry": "2026-11-01",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "13D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
-            "isExp": false
-        },
-        {
             "name": "PRIYANSHU",
             "key": "d136c01a454f75d7f47afba3dc3dc696c7cbfdac5412d9a74c8504949b10e834",
             "expiry": "2026-10-30",
