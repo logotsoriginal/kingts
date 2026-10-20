@@ -73,17 +73,6 @@
             "isExp": false
         },
         {
-            "name": "PRINCE",
-            "key": "75a46c0320561edf46669d9a106eda1dec1c8e51243b0e65e69de1cb134d4157",
-            "expiry": "2026-10-18",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "EXPIRED",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true
-        },
-        {
             "name": "MOJA MIA",
             "key": "03897dfc9e495eb3382af4754bc68595cdd15e7c8c0e98e26033a187dc552c54",
             "expiry": "2026-11-14",
