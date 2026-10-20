@@ -18,17 +18,6 @@
             "isExp": false
         },
         {
-            "name": "SR SR",
-            "key": "88b288a99a2d960055a3b21f81ed10119f8082f522e6546f0bf5106a5ff2e6dc",
-            "expiry": "2026-10-19",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "0D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
             "name": "ARSH",
             "key": "da33e976862f629ac2ee5ccded8bd0325806c86812144edd6589810ea7cfe608",
             "expiry": "2026-12-30",
