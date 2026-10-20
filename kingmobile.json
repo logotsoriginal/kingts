@@ -84,17 +84,6 @@
             "isExp": true
         },
         {
-            "name": "MAHI",
-            "key": "558522d0b9ef6613350aee47225d60857583738d12d64695201690a44529f81a",
-            "expiry": "2026-10-18",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "EXPIRED",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true
-        },
-        {
             "name": "MOJA MIA",
             "key": "03897dfc9e495eb3382af4754bc68595cdd15e7c8c0e98e26033a187dc552c54",
             "expiry": "2026-11-14",
@@ -471,7 +460,10 @@
             "name": "GAJJU JAHREELA",
             "key": "6b148ea21e197aa7351a6f158cf2012f8148dbe1378177d542eb0136ab816549",
             "expiry": "2026-11-20",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
         }
     ]
 }
