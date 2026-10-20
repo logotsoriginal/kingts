@@ -374,15 +374,6 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "25D LEFT"
-        },
-        {
-            "name": "USER_T87U",
-            "key": "ef3abb736f6d7bcd99c7ce2829506dab85d96c1026170c403d08a35fe10f09d2",
-            "expiry": "2026-11-19",
-            "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
-            "isExp": false,
-            "st": "31D LEFT"
         }
     ]
 }
