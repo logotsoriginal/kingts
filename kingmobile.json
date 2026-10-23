@@ -450,6 +450,15 @@
             "name": "CK",
             "key": "e757d7a2d5a41df418c6d98d0e79c8e50b95237d47ca71e5382ac2dc6a7dc3e5",
             "expiry": "2026-11-23",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
+        },
+        {
+            "name": "USER_MIY5",
+            "key": "70e730a1d4be746bcb8653b1afba5bf1ce408e77112c230b40538c21b7fdd773",
+            "expiry": "2026-11-23",
             "mode": "vip"
         }
     ]
