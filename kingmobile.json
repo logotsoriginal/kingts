@@ -456,10 +456,13 @@
             "st": "32D LEFT"
         },
         {
-            "name": "USER_MIY5",
-            "key": "70e730a1d4be746bcb8653b1afba5bf1ce408e77112c230b40538c21b7fdd773",
+            "name": "USER",
+            "key": "fa127981552f90eb3792f1311acc832e70d01ba70007217cec30098a5378232b",
             "expiry": "2026-11-23",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
         }
     ]
 }
