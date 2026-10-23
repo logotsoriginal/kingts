@@ -436,6 +436,12 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "31D LEFT"
+        },
+        {
+            "name": "ARYAN",
+            "key": "ec0563b84de40f70f30a3cfbe24d9c5e62c16b1aa3388308b0ee78f6f86d368a",
+            "expiry": "2026-11-23",
+            "mode": "vip"
         }
     ]
 }
