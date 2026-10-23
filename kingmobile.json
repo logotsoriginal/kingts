@@ -458,7 +458,7 @@
         {
             "name": "USER",
             "key": "fa127981552f90eb3792f1311acc832e70d01ba70007217cec30098a5378232b",
-            "expiry": "2026-11-23",
+            "expiry": "2026-11-22",
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
