@@ -468,7 +468,10 @@
             "name": "RU DON",
             "key": "0e3b986f61978de22ae76bd979b80e0bf98d7431aeb09dc4d0badc07dff3d18a",
             "expiry": "2026-11-24",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
         }
     ]
 }
