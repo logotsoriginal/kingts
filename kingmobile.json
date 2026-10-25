@@ -475,9 +475,12 @@
         },
         {
             "name": "RAJU KUMAR",
-            "key": "c9cb9befd3c7bd46b34fc22b7e02690c8b20cfff8f4d4f64a90f8521199d250e",
+            "key": "b1cd14ffc6fdaa380fb92ac09e27273411b962a4d6c3b8e46abeb664233ab5e0",
             "expiry": "2026-11-25",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
         }
     ]
 }
