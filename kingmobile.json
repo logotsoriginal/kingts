@@ -483,10 +483,13 @@
             "st": "31D LEFT"
         },
         {
-            "name": "K",
+            "name": "K BHAI",
             "key": "a805af80cc69dce32c404c5d95af6c5db4b0b7aba3fe44fc176a71854a3d8e1b",
             "expiry": "2026-11-26",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
         }
     ]
 }
