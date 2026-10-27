@@ -58,9 +58,15 @@
             "key": "e8ea32faca2ccea373057745989d4d7fc5b2d37ebae75af883e56818f8bb2534",
             "expiry": "2026-10-29",
             "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "32D LEFT"
+            "st": "3D LEFT"
+        },
+        {
+            "name": "PALTU GOLDAR",
+            "key": "2ff7f0c73f4ec9e579d97d7de4194024e5f1d9fe47a6acd77ed1908d88747f36",
+            "expiry": "2026-11-27",
+            "mode": "vip"
         }
     ]
 }
