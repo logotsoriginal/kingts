@@ -56,8 +56,11 @@
         {
             "name": "USER_K0FJ",
             "key": "e8ea32faca2ccea373057745989d4d7fc5b2d37ebae75af883e56818f8bb2534",
-            "expiry": "2026-11-27",
-            "mode": "vip"
+            "expiry": "2026-10-29",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
         }
     ]
 }
