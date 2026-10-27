@@ -13,9 +13,15 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1448D LEFT",
+            "st": "1437D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
+        },
+        {
+            "name": "USER_21M5",
+            "key": "a338abcbca60f44253772c4ac89ab331995f082fc09b3353272fa6991abf69b6",
+            "expiry": "2026-10-29",
+            "mode": "vip"
         }
     ]
 }
