@@ -66,6 +66,15 @@
             "name": "PALTU GOLDAR",
             "key": "2ff7f0c73f4ec9e579d97d7de4194024e5f1d9fe47a6acd77ed1908d88747f36",
             "expiry": "2026-11-27",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
+        },
+        {
+            "name": "THE RUNEWAY",
+            "key": "98a2f4b67deac7bdfb69ef7b790c3031d88ff34afbd1bffda50178f0dcd577c7",
+            "expiry": "2026-11-27",
             "mode": "vip"
         }
     ]
