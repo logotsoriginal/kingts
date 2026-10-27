@@ -39,6 +39,15 @@
             "name": "USER_R1OY",
             "key": "4387f717d15d8407157ec02539747e6ca094a737a795b1d6dd51dda1d5caa692",
             "expiry": "2026-10-29",
+            "mode": "vip",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
+            "isExp": false,
+            "st": "3D LEFT"
+        },
+        {
+            "name": "USER_IR86",
+            "key": "137d4f6f90b4528343cbacf616191780a49c1b862f4bba187ba361e9d6026b9d",
+            "expiry": "2026-10-29",
             "mode": "vip"
         }
     ]
