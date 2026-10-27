@@ -21,6 +21,15 @@
             "name": "USER_21M5",
             "key": "a338abcbca60f44253772c4ac89ab331995f082fc09b3353272fa6991abf69b6",
             "expiry": "2026-10-29",
+            "mode": "vip",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
+            "isExp": false,
+            "st": "3D LEFT"
+        },
+        {
+            "name": "USER_V3VG",
+            "key": "bb53e628f42f6d1838190db2ccf5c180e0a2c40f615eab0baedf4a39aa47bbd5",
+            "expiry": "2026-10-29",
             "mode": "vip"
         }
     ]
