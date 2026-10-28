@@ -39,7 +39,10 @@
             "name": "PRAKASH BHARATI",
             "key": "5759cc2e100c4ff78a4057394a355c6d60b3a651a7bb71ac252281a25341e793",
             "expiry": "2026-11-28",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
         }
     ]
 }
