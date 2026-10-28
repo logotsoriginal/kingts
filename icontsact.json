@@ -43,6 +43,12 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "32D LEFT"
+        },
+        {
+            "name": "SWORITH",
+            "key": "9b26bb122053efc1464ebef8e82f81431fe4e79f5f920409921275b13b59a0e3",
+            "expiry": "2026-11-28",
+            "mode": "vip"
         }
     ]
 }
