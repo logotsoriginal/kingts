@@ -13,54 +13,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1437D LEFT",
+            "st": "1436D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
-        },
-        {
-            "name": "USER_21M5",
-            "key": "a338abcbca60f44253772c4ac89ab331995f082fc09b3353272fa6991abf69b6",
-            "expiry": "2026-10-29",
-            "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "3D LEFT"
-        },
-        {
-            "name": "USER_V3VG",
-            "key": "bb53e628f42f6d1838190db2ccf5c180e0a2c40f615eab0baedf4a39aa47bbd5",
-            "expiry": "2026-10-29",
-            "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "3D LEFT"
-        },
-        {
-            "name": "USER_R1OY",
-            "key": "4387f717d15d8407157ec02539747e6ca094a737a795b1d6dd51dda1d5caa692",
-            "expiry": "2026-10-29",
-            "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "3D LEFT"
-        },
-        {
-            "name": "USER_IR86",
-            "key": "137d4f6f90b4528343cbacf616191780a49c1b862f4bba187ba361e9d6026b9d",
-            "expiry": "2026-10-29",
-            "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "3D LEFT"
-        },
-        {
-            "name": "USER_K0FJ",
-            "key": "e8ea32faca2ccea373057745989d4d7fc5b2d37ebae75af883e56818f8bb2534",
-            "expiry": "2026-10-29",
-            "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "3D LEFT"
         },
         {
             "name": "PALTU GOLDAR",
@@ -69,13 +24,16 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "32D LEFT"
+            "st": "31D LEFT"
         },
         {
             "name": "THE RUNEWAY",
             "key": "98a2f4b67deac7bdfb69ef7b790c3031d88ff34afbd1bffda50178f0dcd577c7",
             "expiry": "2026-11-27",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
         }
     ]
 }
