@@ -84,6 +84,15 @@
             "name": "DSGLOBAL",
             "key": "8ad1a24565ec3ae518f0b5cbbc0f0cd9db5315ed3671036d8c321c27bf86a135",
             "expiry": "2026-11-29",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
+        },
+        {
+            "name": "ASRAFUL",
+            "key": "20ad9fb6d06e5f3c55d67ebec0947e311062a42daf4090a78aef120611c5a330",
+            "expiry": "2026-11-29",
             "mode": "vip"
         }
     ]
