@@ -490,6 +490,12 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "29D LEFT"
+        },
+        {
+            "name": "RAVI",
+            "key": "f6ce795d09462b337e5a16699d008ee6cd351ff016b1b4c8331631c24b65b8cb",
+            "expiry": "2026-11-29",
+            "mode": "vip"
         }
     ]
 }
