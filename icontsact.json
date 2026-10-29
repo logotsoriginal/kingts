@@ -66,6 +66,15 @@
             "name": "PRAKASH BHARATI2",
             "key": "e2f4832daa315a1172f270ea10d5dc6b2f1c4f0e8bbc989f96121158805b6872",
             "expiry": "2026-11-29",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
+        },
+        {
+            "name": "RAJNISH KUMAR",
+            "key": "13697011c825ab16e52c4fea59235c21c6542667483c24620fb6bcb4d6f701e7",
+            "expiry": "2026-11-29",
             "mode": "vip"
         }
     ]
