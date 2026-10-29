@@ -57,6 +57,15 @@
             "name": "OMSHIVA",
             "key": "99ef969b08d35d062ad1e950cce0aef3e42fe3af5ff83d20b8ffed2961ddac70",
             "expiry": "2026-11-29",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
+        },
+        {
+            "name": "PRAKASH BHARATI2",
+            "key": "e2f4832daa315a1172f270ea10d5dc6b2f1c4f0e8bbc989f96121158805b6872",
+            "expiry": "2026-11-29",
             "mode": "vip"
         }
     ]
