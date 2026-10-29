@@ -73,9 +73,12 @@
         },
         {
             "name": "RAJNISH KUMAR",
-            "key": "13697011c825ab16e52c4fea59235c21c6542667483c24620fb6bcb4d6f701e7",
+            "key": "f00eb5da928186ef4cf94685ea9e69d8dfb15b95496c3d4967e423c65842c74c",
             "expiry": "2026-11-29",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
         }
     ]
 }
