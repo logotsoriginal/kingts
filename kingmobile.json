@@ -490,12 +490,6 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "29D LEFT"
-        },
-        {
-            "name": "PRAKASH BHARATI2",
-            "key": "0a3177921aad1703b0188ed9d37ea755b9ce733d978c548ea0ee1c75fa27d4ba",
-            "expiry": "2026-11-29",
-            "mode": "vip"
         }
     ]
 }
