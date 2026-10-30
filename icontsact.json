@@ -102,6 +102,15 @@
             "name": "ROHIT KUMAR",
             "key": "adce092fb3425dd9cf14fb275b5db26fddb7aa1ec9f9db7f6ac26b6b06a8e250",
             "expiry": "2026-11-30",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
+        },
+        {
+            "name": "ARSH",
+            "key": "9a9d4f13ae6005831a64db3cfc60275f5a19cdad14e470f909045cd8a17b3548",
+            "expiry": "2026-11-30",
             "mode": "vip"
         }
     ]
