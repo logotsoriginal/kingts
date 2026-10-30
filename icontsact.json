@@ -13,7 +13,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1435D LEFT",
+            "st": "1434D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -24,7 +24,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "30D LEFT"
+            "st": "29D LEFT"
         },
         {
             "name": "THE RUNEWAY",
@@ -33,7 +33,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "30D LEFT"
+            "st": "29D LEFT"
         },
         {
             "name": "PRAKASH BHARATI",
@@ -42,7 +42,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "31D LEFT"
+            "st": "30D LEFT"
         },
         {
             "name": "SWORITH",
@@ -51,7 +51,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "31D LEFT"
+            "st": "30D LEFT"
         },
         {
             "name": "OMSHIVA",
@@ -60,7 +60,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "32D LEFT"
+            "st": "31D LEFT"
         },
         {
             "name": "PRAKASH BHARATI2",
@@ -69,7 +69,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "32D LEFT"
+            "st": "31D LEFT"
         },
         {
             "name": "RAJNISH KUMAR",
@@ -78,7 +78,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "32D LEFT"
+            "st": "31D LEFT"
         },
         {
             "name": "DSGLOBAL",
@@ -87,12 +87,21 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "32D LEFT"
+            "st": "31D LEFT"
         },
         {
             "name": "ASRAFUL",
             "key": "20ad9fb6d06e5f3c55d67ebec0947e311062a42daf4090a78aef120611c5a330",
             "expiry": "2026-11-29",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
+        },
+        {
+            "name": "ROHIT KUMAR",
+            "key": "adce092fb3425dd9cf14fb275b5db26fddb7aa1ec9f9db7f6ac26b6b06a8e250",
+            "expiry": "2026-11-30",
             "mode": "vip"
         }
     ]
