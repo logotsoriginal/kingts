@@ -456,15 +456,6 @@
             "st": "24D LEFT"
         },
         {
-            "name": "USER",
-            "key": "fa127981552f90eb3792f1311acc832e70d01ba70007217cec30098a5378232b",
-            "expiry": "2026-11-22",
-            "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
-            "isExp": false,
-            "st": "23D LEFT"
-        },
-        {
             "name": "RU DON",
             "key": "0e3b986f61978de22ae76bd979b80e0bf98d7431aeb09dc4d0badc07dff3d18a",
             "expiry": "2026-11-24",
@@ -504,7 +495,10 @@
             "name": "SUNIL",
             "key": "6be841af2ce594fc08887596fa1f05e7840f27754813d6a5638dfa93cf583d53",
             "expiry": "2026-12-01",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "32D LEFT"
         }
     ]
 }
