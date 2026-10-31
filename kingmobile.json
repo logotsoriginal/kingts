@@ -499,6 +499,12 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "31D LEFT"
+        },
+        {
+            "name": "SUNIL",
+            "key": "6be841af2ce594fc08887596fa1f05e7840f27754813d6a5638dfa93cf583d53",
+            "expiry": "2026-12-01",
+            "mode": "vip"
         }
     ]
 }
