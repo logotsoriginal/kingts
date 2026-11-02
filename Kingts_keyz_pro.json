@@ -3,7 +3,7 @@
         {
             "version": "1.0.5",
             "downloadlink": "https://kingts.wapka.fun/",
-            "mobile_apk": "https://www.mediafire.com/file/3wapwy3xgl8zd4c/KINGMOBILE_1.0.7.apk?dkey",
+            "mobile_apk": "https://www.mediafire.com/file/3wapwy3xgl8zd4c/KINGMOBILE_1.0.8.apk?dkey",
             "mobile_sutep_videos": "https://ia600401.us.archive.org/23/items/video_20261006_182752_edit/video_20261006_182752_edit.mp4",
             "software_link": "https://www.mediafire.com/file/9ygbsjziugxb7ay/KING_TS_SOFTWARE_1.0.5.zip?dkey",
             "software_sutep_videos": "https://ia600102.us.archive.org/0/items/pc_sutep/hru6v5.mp4",
@@ -21,7 +21,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "13D LEFT",
+            "st": "12D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -32,7 +32,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1432D LEFT",
+            "st": "1431D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -43,7 +43,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "7D LEFT",
+            "st": "6D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -54,7 +54,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "11D LEFT",
+            "st": "10D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -65,7 +65,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "4D LEFT",
+            "st": "3D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -76,7 +76,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -87,7 +87,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -98,7 +98,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -109,7 +109,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -120,7 +120,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -131,7 +131,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -142,7 +142,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "7D LEFT",
+            "st": "6D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -153,7 +153,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "10D LEFT",
+            "st": "9D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -164,7 +164,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "10D LEFT",
+            "st": "9D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -175,7 +175,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "10D LEFT",
+            "st": "9D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -186,7 +186,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "13D LEFT",
+            "st": "12D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -197,7 +197,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "13D LEFT"
+            "st": "12D LEFT"
         }
     ]
 }
