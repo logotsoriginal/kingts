@@ -409,6 +409,12 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "31D LEFT"
+        },
+        {
+            "name": "RISHIKESH",
+            "key": "a77e00c79e901a8b5bf551f4ba59fe01d3d49f9c771369325978e3a7639eeb4b",
+            "expiry": "2026-12-02",
+            "mode": "vip"
         }
     ]
 }
