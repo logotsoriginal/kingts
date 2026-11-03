@@ -401,6 +401,15 @@
             "name": "CC",
             "key": "aad1da09c7775879b28cb90036db3c1aab6076ffe3cef67530c749afbe271549",
             "expiry": "2026-12-03",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
+        },
+        {
+            "name": "SUFIYAN SHAIKH",
+            "key": "eec675535d4ae09026d4d202eb8715c401efaa8926a21d57ca8666355f107905",
+            "expiry": "2026-12-03",
             "mode": "vip"
         }
     ]
