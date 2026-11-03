@@ -396,6 +396,12 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "30D LEFT"
+        },
+        {
+            "name": "CC",
+            "key": "aad1da09c7775879b28cb90036db3c1aab6076ffe3cef67530c749afbe271549",
+            "expiry": "2026-12-03",
+            "mode": "vip"
         }
     ]
 }
