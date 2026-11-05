@@ -419,6 +419,15 @@
             "name": "ZEESHAN KHAN",
             "key": "c2153368055b25d6fca3448e1b7bb32bb30c9652ec96b97379343dfed28d07ec",
             "expiry": "2026-12-05",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
+        },
+        {
+            "name": "RISHABH SHARMA",
+            "key": "c209b2ca4fd5f8be7716c0f359135b5f1cc4f2d073cf8985191998a8b933ce2b",
+            "expiry": "2026-12-05",
             "mode": "vip"
         }
     ]
