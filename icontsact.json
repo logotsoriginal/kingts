@@ -138,6 +138,15 @@
             "name": "ANIK HACKER",
             "key": "c954ebd442346d05055b8a1e70e0da7471ae667a87f28f8b5de982e43a74806f",
             "expiry": "2026-12-05",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
+        },
+        {
+            "name": "ASIF MANSOORI",
+            "key": "e1950324a98c6412940b510b763ceabb2dfc63513e90c70f2868009a32d49f81",
+            "expiry": "2026-12-05",
             "mode": "vip"
         }
     ]
