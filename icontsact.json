@@ -151,6 +151,12 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "29D LEFT"
+        },
+        {
+            "name": "SMART",
+            "key": "02e4e047c85a3062e049259a42ea3fd2998fdc31a8c7708d5f3eb6c8c4b3cd06",
+            "expiry": "2026-12-07",
+            "mode": "vip"
         }
     ]
 }
