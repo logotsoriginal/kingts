@@ -13,7 +13,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "8D LEFT",
+            "st": "7D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -24,7 +24,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "55D LEFT",
+            "st": "54D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -35,7 +35,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1427D LEFT",
+            "st": "1426D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -46,7 +46,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "2D LEFT",
+            "st": "1D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -57,8 +57,8 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "6D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "st": "5D LEFT",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
         {
@@ -68,7 +68,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "9D LEFT",
+            "st": "8D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -79,7 +79,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "56D LEFT",
+            "st": "55D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -101,9 +101,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "0D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
+            "st": "EXPIRED",
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true
         },
         {
             "name": "VIJAY",
@@ -112,9 +112,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "0D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
+            "st": "EXPIRED",
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true
         },
         {
             "name": "MR X",
@@ -123,9 +123,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "0D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
+            "st": "EXPIRED",
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true
         },
         {
             "name": "DILIP PANDIT",
@@ -134,9 +134,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "0D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
+            "st": "EXPIRED",
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true
         },
         {
             "name": "TUKTUK",
@@ -145,9 +145,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "0D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
+            "st": "EXPIRED",
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true
         },
         {
             "name": "MANO RANJAN",
@@ -156,9 +156,9 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "0D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
+            "st": "EXPIRED",
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true
         },
         {
             "name": "RENEWAY",
@@ -167,7 +167,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "2D LEFT",
+            "st": "1D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -178,7 +178,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -189,7 +189,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -200,7 +200,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "5D LEFT",
+            "st": "4D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -211,7 +211,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "8D LEFT",
+            "st": "7D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -222,7 +222,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "8D LEFT",
+            "st": "7D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -233,7 +233,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "10D LEFT"
+            "st": "9D LEFT"
         },
         {
             "name": "USER_OFF0",
@@ -242,7 +242,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "13D LEFT"
+            "st": "12D LEFT"
         },
         {
             "name": "AJAY KUMAR",
@@ -251,7 +251,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "13D LEFT"
+            "st": "12D LEFT"
         },
         {
             "name": "USER_HWMI",
@@ -260,7 +260,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "13D LEFT"
+            "st": "12D LEFT"
         },
         {
             "name": "SULTAN",
@@ -269,7 +269,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "14D LEFT"
+            "st": "13D LEFT"
         },
         {
             "name": "MAHESH",
@@ -278,7 +278,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "14D LEFT"
+            "st": "13D LEFT"
         },
         {
             "name": "GAJJU",
@@ -287,7 +287,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "15D LEFT"
+            "st": "14D LEFT"
         },
         {
             "name": "SR SR",
@@ -296,7 +296,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "14D LEFT"
+            "st": "13D LEFT"
         },
         {
             "name": "SANJEEV",
@@ -305,7 +305,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "16D LEFT"
+            "st": "15D LEFT"
         },
         {
             "name": "SK",
@@ -314,7 +314,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "17D LEFT"
+            "st": "16D LEFT"
         },
         {
             "name": "ARYAN",
@@ -323,7 +323,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "18D LEFT"
+            "st": "17D LEFT"
         },
         {
             "name": "CK",
@@ -332,7 +332,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "18D LEFT"
+            "st": "17D LEFT"
         },
         {
             "name": "RU DON",
@@ -341,7 +341,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "19D LEFT"
+            "st": "18D LEFT"
         },
         {
             "name": "RAJU KUMAR",
@@ -350,7 +350,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "20D LEFT"
+            "st": "19D LEFT"
         },
         {
             "name": "K BHAI",
@@ -359,7 +359,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "21D LEFT"
+            "st": "20D LEFT"
         },
         {
             "name": "IMRAN ALI",
@@ -368,7 +368,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "25D LEFT"
+            "st": "24D LEFT"
         },
         {
             "name": "SUNIL",
@@ -377,7 +377,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "26D LEFT"
+            "st": "25D LEFT"
         },
         {
             "name": "DEEPAK SHARMA",
@@ -386,7 +386,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "27D LEFT"
+            "st": "26D LEFT"
         },
         {
             "name": "RISHIKESH",
@@ -395,7 +395,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "27D LEFT"
+            "st": "26D LEFT"
         },
         {
             "name": "CC",
@@ -404,7 +404,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "28D LEFT"
+            "st": "27D LEFT"
         },
         {
             "name": "SUFIYAN SHAIKH",
@@ -413,7 +413,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "28D LEFT"
+            "st": "27D LEFT"
         },
         {
             "name": "RISHABH SHARMA",
@@ -422,7 +422,13 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "30D LEFT"
+            "st": "29D LEFT"
+        },
+        {
+            "name": "D KUMAR",
+            "key": "00f486786e89221b1d93deabc7fd037e5702d1a5c4142d216360c99db2bbda2d",
+            "expiry": "2026-12-07",
+            "mode": "vip"
         }
     ]
 }
