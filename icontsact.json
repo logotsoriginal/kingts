@@ -1,8 +1,8 @@
 {
     "update_log": [
         {
-            "version": "1.0.0",
-            "downloadlink": "https://kingts.wapka.fun/"
+            "version": "1.0.1",
+            "downloadlink": "https://cdn.wapka.org/00hotx/1a2f80b15d08048e763f2bd73fbe1dcb/love-ts-setup-1-0-1.exe"
         }
     ],
     "licenses": [
@@ -13,7 +13,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1428D LEFT",
+            "st": "1426D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -24,7 +24,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "23D LEFT"
+            "st": "21D LEFT"
         },
         {
             "name": "THE RUNEWAY",
@@ -33,7 +33,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "23D LEFT"
+            "st": "21D LEFT"
         },
         {
             "name": "PRAKASH BHARATI",
@@ -42,7 +42,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "24D LEFT"
+            "st": "22D LEFT"
         },
         {
             "name": "SWORITH",
@@ -51,7 +51,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "24D LEFT"
+            "st": "22D LEFT"
         },
         {
             "name": "OMSHIVA",
@@ -60,7 +60,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "25D LEFT"
+            "st": "23D LEFT"
         },
         {
             "name": "PRAKASH BHARATI2",
@@ -69,7 +69,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "25D LEFT"
+            "st": "23D LEFT"
         },
         {
             "name": "RAJNISH KUMAR",
@@ -78,7 +78,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "25D LEFT"
+            "st": "23D LEFT"
         },
         {
             "name": "DSGLOBAL",
@@ -87,7 +87,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "25D LEFT"
+            "st": "23D LEFT"
         },
         {
             "name": "ASRAFUL",
@@ -96,7 +96,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "25D LEFT"
+            "st": "23D LEFT"
         },
         {
             "name": "ROHIT KUMAR",
@@ -105,7 +105,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "26D LEFT"
+            "st": "24D LEFT"
         },
         {
             "name": "ARSH",
@@ -114,7 +114,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "26D LEFT"
+            "st": "24D LEFT"
         },
         {
             "name": "H8SSRMS",
@@ -123,7 +123,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "26D LEFT"
+            "st": "24D LEFT"
         },
         {
             "name": "RIHAN ANSARI",
@@ -132,7 +132,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "30D LEFT"
+            "st": "28D LEFT"
         },
         {
             "name": "ANIK HACKER",
@@ -141,13 +141,16 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "31D LEFT"
+            "st": "29D LEFT"
         },
         {
             "name": "ASIF MANSOORI",
             "key": "e1950324a98c6412940b510b763ceabb2dfc63513e90c70f2868009a32d49f81",
             "expiry": "2026-12-05",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "29D LEFT"
         }
     ]
 }
