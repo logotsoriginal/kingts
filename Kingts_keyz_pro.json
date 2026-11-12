@@ -15,17 +15,6 @@
     ],
     "licenses": [
         {
-            "name": "AASHU GUPTA",
-            "key": "f46ceaebfe890796357a2ca5cfa47e7827d25888e9fd8aecc0597eb085591126",
-            "expiry": "2026-11-13",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "2D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
             "name": "ADMIN",
             "key": "50974ee536572dea5f73ac1d7c62a0e9ef46f939f56c6fdd2ae6f4aaa50e27a7",
             "expiry": "2030-10-02",
@@ -35,37 +24,6 @@
             "st": "1421D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
-        },
-        {
-            "name": "VINOD G",
-            "key": "d78a750ef9fc1f52adfd80628b322de455df1d739c41544065efb5dc31b566d7",
-            "expiry": "2026-11-11",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "0D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
-            "name": "MUKKI",
-            "key": "03887b6ea7776d353758a1bda24b80aa87359d81702653e42b7760ddc761e19b",
-            "expiry": "2026-11-13",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "2D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
-            "name": "CDD SONI",
-            "key": "4fc5e4e4eca37b83e3915080cdfe45130dbcc5c3e4ddfef8ebfa51ea55b52ef3",
-            "expiry": "2026-11-13",
-            "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "2D LEFT"
         }
     ]
 }
