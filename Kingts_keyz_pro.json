@@ -21,8 +21,8 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "12D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "st": "2D LEFT",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
         {
@@ -32,18 +32,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1431D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
-            "isExp": false
-        },
-        {
-            "name": "DEEPAK KUMAR",
-            "key": "bc5f31bc35526c76e467a4eee4aac25d0007742b1e57ccc85c9d7d720bcf0c88",
-            "expiry": "2026-11-07",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "6D LEFT",
+            "st": "1421D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -54,129 +43,8 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "10D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
-            "isExp": false
-        },
-        {
-            "name": "VENK",
-            "key": "985d8c0a0a7a2f326a3671945fe346687d8b173471d54ce5ef9908136ae5067d",
-            "expiry": "2026-11-04",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "3D LEFT",
+            "st": "0D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
-            "name": "STR",
-            "key": "9365a28bf13d11cf07ca432646b9428eed0096e7e3cc5b3dc74c1f3319f66aaf",
-            "expiry": "2026-11-05",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "4D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
-            "name": "VIJAY",
-            "key": "66dc0c692b7f39192eee35623b4f6c32f2a3a430a427d148e072807211402073",
-            "expiry": "2026-11-05",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "4D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
-            "name": "MR X",
-            "key": "dd32084f0612f0d09a9b83be97cc45f9141224c58206eaa85e84f7eb8bfb6c7a",
-            "expiry": "2026-11-05",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "4D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
-            "name": "DILIP PANDIT",
-            "key": "b5864ca211c728e937fe317513b93073657495fb6102418b7e52ae83fd3e7cc1",
-            "expiry": "2026-11-05",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "4D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
-            "name": "TUKTUK",
-            "key": "d38a84ff36950b77d190cce9828e0062170f8c700060c2cb42778fcab0c1c33b",
-            "expiry": "2026-11-05",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "4D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
-            "name": "MANO RANJAN",
-            "key": "5c9a4fddf4a8eb0e639d5c90a8040cfa442c1585bb1b9cacf131aaac90bcecfa",
-            "expiry": "2026-11-05",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "4D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
-            "name": "RENEWAY",
-            "key": "2c48b7bbce0d5b520afed76e12676afa80a6ff065f97142de11ace174b2cd510",
-            "expiry": "2026-11-07",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "6D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
-            "isExp": false
-        },
-        {
-            "name": "PRAKASH",
-            "key": "3eba0c41f7fe531dc6b7c336acd5cdd2381bb1e1b6838965e5ca6a1b7fe296bb",
-            "expiry": "2026-11-10",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "9D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
-            "isExp": false
-        },
-        {
-            "name": "MMI",
-            "key": "7c6fa2b2d83bad758d492c176e9a05e36a7808346e23ce8e5521c42ad69f1de8",
-            "expiry": "2026-11-10",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "9D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
-            "isExp": false
-        },
-        {
-            "name": "ASRAFUL",
-            "key": "47a48befb50f38427ca8330ac1ada40cbef588c3091f7a094e3ada46f6cd90d8",
-            "expiry": "2026-11-10",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "9D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
         {
@@ -186,8 +54,8 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "12D LEFT",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "st": "2D LEFT",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
         {
@@ -195,9 +63,9 @@
             "key": "4fc5e4e4eca37b83e3915080cdfe45130dbcc5c3e4ddfef8ebfa51ea55b52ef3",
             "expiry": "2026-11-13",
             "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "12D LEFT"
+            "st": "2D LEFT"
         }
     ]
 }
