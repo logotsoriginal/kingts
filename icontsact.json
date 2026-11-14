@@ -13,7 +13,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1420D LEFT",
+            "st": "1419D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -24,7 +24,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "15D LEFT"
+            "st": "14D LEFT"
         },
         {
             "name": "THE RUNEWAY",
@@ -33,7 +33,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "15D LEFT"
+            "st": "14D LEFT"
         },
         {
             "name": "PRAKASH BHARATI",
@@ -42,7 +42,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "16D LEFT"
+            "st": "15D LEFT"
         },
         {
             "name": "SWORITH",
@@ -51,7 +51,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "16D LEFT"
+            "st": "15D LEFT"
         },
         {
             "name": "OMSHIVA",
@@ -60,7 +60,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "17D LEFT"
+            "st": "16D LEFT"
         },
         {
             "name": "PRAKASH BHARATI2",
@@ -69,7 +69,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "17D LEFT"
+            "st": "16D LEFT"
         },
         {
             "name": "RAJNISH KUMAR",
@@ -78,7 +78,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "17D LEFT"
+            "st": "16D LEFT"
         },
         {
             "name": "DSGLOBAL",
@@ -87,7 +87,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "17D LEFT"
+            "st": "16D LEFT"
         },
         {
             "name": "ASRAFUL",
@@ -96,7 +96,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "17D LEFT"
+            "st": "16D LEFT"
         },
         {
             "name": "ROHIT KUMAR",
@@ -105,7 +105,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "18D LEFT"
+            "st": "17D LEFT"
         },
         {
             "name": "ARSH",
@@ -114,7 +114,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "18D LEFT"
+            "st": "17D LEFT"
         },
         {
             "name": "H8SSRMS",
@@ -123,7 +123,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "18D LEFT"
+            "st": "17D LEFT"
         },
         {
             "name": "RIHAN ANSARI",
@@ -132,7 +132,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "22D LEFT"
+            "st": "21D LEFT"
         },
         {
             "name": "ANIK HACKER",
@@ -141,7 +141,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "23D LEFT"
+            "st": "22D LEFT"
         },
         {
             "name": "ASIF MANSOORI",
@@ -150,7 +150,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "23D LEFT"
+            "st": "22D LEFT"
         },
         {
             "name": "SAMRAT",
@@ -159,7 +159,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "25D LEFT"
+            "st": "24D LEFT"
         },
         {
             "name": "DEEPAK KUMAR",
@@ -168,7 +168,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "26D LEFT"
+            "st": "25D LEFT"
         },
         {
             "name": "VIJAY",
@@ -177,7 +177,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "27D LEFT"
+            "st": "26D LEFT"
         },
         {
             "name": "KRISHNAMOHAN SAHANI",
@@ -186,7 +186,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "27D LEFT"
+            "st": "26D LEFT"
         },
         {
             "name": "ABHISHEK RAJ",
@@ -195,7 +195,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "27D LEFT"
+            "st": "26D LEFT"
         },
         {
             "name": "SANJEEV",
@@ -204,7 +204,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "28D LEFT"
+            "st": "27D LEFT"
         },
         {
             "name": "SUNIL",
@@ -213,7 +213,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "30D LEFT"
+            "st": "29D LEFT"
         },
         {
             "name": "RATNESH RAJBHAR",
@@ -222,7 +222,13 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "31D LEFT"
+            "st": "30D LEFT"
+        },
+        {
+            "name": "CDD SONI",
+            "key": "157d5b1dadf85a3f887eb8507585473836ec9293335b56bb6131164deedbcbdd",
+            "expiry": "2026-12-14",
+            "mode": "vip"
         }
     ]
 }
