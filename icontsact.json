@@ -228,7 +228,10 @@
             "name": "CDD SONI",
             "key": "157d5b1dadf85a3f887eb8507585473836ec9293335b56bb6131164deedbcbdd",
             "expiry": "2026-12-14",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
         }
     ]
 }
