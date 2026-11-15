@@ -7,24 +7,13 @@
     ],
     "licenses": [
         {
-            "name": "AASHU GUPTA",
-            "key": "f46ceaebfe890796357a2ca5cfa47e7827d25888e9fd8aecc0597eb085591126",
-            "expiry": "2026-11-13",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "2D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
             "name": "ARSH",
             "key": "da33e976862f629ac2ee5ccded8bd0325806c86812144edd6589810ea7cfe608",
             "expiry": "2026-12-30",
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "49D LEFT",
+            "st": "46D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -35,19 +24,8 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1421D LEFT",
+            "st": "1418D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
-            "isExp": false
-        },
-        {
-            "name": "VINOD G",
-            "key": "d78a750ef9fc1f52adfd80628b322de455df1d739c41544065efb5dc31b566d7",
-            "expiry": "2026-11-11",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "0D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
         {
@@ -57,7 +35,7 @@
             "mode": "vip",
             "c": "var(--ios-orange)",
             "x": 0,
-            "st": "3D LEFT",
+            "st": "0D LEFT",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
@@ -68,30 +46,8 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "50D LEFT",
+            "st": "47D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
-            "isExp": false
-        },
-        {
-            "name": "MUKKI",
-            "key": "03887b6ea7776d353758a1bda24b80aa87359d81702653e42b7760ddc761e19b",
-            "expiry": "2026-11-13",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "2D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false
-        },
-        {
-            "name": "CDD SONI",
-            "key": "4fc5e4e4eca37b83e3915080cdfe45130dbcc5c3e4ddfef8ebfa51ea55b52ef3",
-            "expiry": "2026-11-13",
-            "mode": "vip",
-            "c": "var(--ios-green)",
-            "x": 0,
-            "st": "2D LEFT",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false
         },
         {
@@ -101,52 +57,52 @@
             "mode": "vip",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "4D LEFT"
+            "st": "1D LEFT"
         },
         {
             "name": "USER_OFF0",
             "key": "afe7c98e4df756414f4b7b973c46c22648f9c6cb7eae0beb7f9e561f031195eb",
             "expiry": "2026-11-18",
             "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "7D LEFT"
+            "st": "4D LEFT"
         },
         {
             "name": "AJAY KUMAR",
             "key": "e1cb0671fabbd0b45f98ab3bfd54dc60770ced765123df548cc0335cf3bc0bbf",
             "expiry": "2026-11-18",
             "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "7D LEFT"
+            "st": "4D LEFT"
         },
         {
             "name": "USER_HWMI",
             "key": "00d660eda2c6983e0696a06f3783c81a143f1ec40367ee5a6638d05751082f57",
             "expiry": "2026-11-18",
             "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "7D LEFT"
+            "st": "4D LEFT"
         },
         {
             "name": "SULTAN",
             "key": "6b5a7cdc7a93bd89d7504630896e69c26cae3fd567cec6004691a97eed28cf88",
             "expiry": "2026-11-19",
             "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "8D LEFT"
+            "st": "5D LEFT"
         },
         {
             "name": "MAHESH",
             "key": "426489ce80c1da7ae954e8233576c0e941bb679a307e28d1ed0249fe4a506522",
             "expiry": "2026-11-19",
             "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "8D LEFT"
+            "st": "5D LEFT"
         },
         {
             "name": "GAJJU",
@@ -155,16 +111,16 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "9D LEFT"
+            "st": "6D LEFT"
         },
         {
             "name": "SR SR",
             "key": "ef3abb736f6d7bcd99c7ce2829506dab85d96c1026170c403d08a35fe10f09d2",
             "expiry": "2026-11-19",
             "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "8D LEFT"
+            "st": "5D LEFT"
         },
         {
             "name": "SANJEEV",
@@ -173,7 +129,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "10D LEFT"
+            "st": "7D LEFT"
         },
         {
             "name": "SK",
@@ -182,7 +138,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "11D LEFT"
+            "st": "8D LEFT"
         },
         {
             "name": "ARYAN",
@@ -191,7 +147,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "12D LEFT"
+            "st": "9D LEFT"
         },
         {
             "name": "CK",
@@ -200,7 +156,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "12D LEFT"
+            "st": "9D LEFT"
         },
         {
             "name": "RU DON",
@@ -209,7 +165,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "13D LEFT"
+            "st": "10D LEFT"
         },
         {
             "name": "RAJU KUMAR",
@@ -218,7 +174,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "14D LEFT"
+            "st": "11D LEFT"
         },
         {
             "name": "K BHAI",
@@ -227,7 +183,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "15D LEFT"
+            "st": "12D LEFT"
         },
         {
             "name": "IMRAN ALI",
@@ -236,7 +192,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "19D LEFT"
+            "st": "16D LEFT"
         },
         {
             "name": "SUNIL",
@@ -245,7 +201,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "20D LEFT"
+            "st": "17D LEFT"
         },
         {
             "name": "DEEPAK SHARMA",
@@ -254,7 +210,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "21D LEFT"
+            "st": "18D LEFT"
         },
         {
             "name": "RISHIKESH",
@@ -263,7 +219,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "21D LEFT"
+            "st": "18D LEFT"
         },
         {
             "name": "CC",
@@ -272,7 +228,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "22D LEFT"
+            "st": "19D LEFT"
         },
         {
             "name": "SUFIYAN SHAIKH",
@@ -281,7 +237,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "22D LEFT"
+            "st": "19D LEFT"
         },
         {
             "name": "RISHABH SHARMA",
@@ -290,7 +246,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "24D LEFT"
+            "st": "21D LEFT"
         },
         {
             "name": "D KUMAR",
@@ -299,7 +255,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "26D LEFT"
+            "st": "23D LEFT"
         },
         {
             "name": "VIJAY",
@@ -308,7 +264,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "29D LEFT"
+            "st": "26D LEFT"
         },
         {
             "name": "SAMRAT",
@@ -317,7 +273,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "31D LEFT"
+            "st": "28D LEFT"
         }
     ]
 }
