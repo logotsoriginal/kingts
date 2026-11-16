@@ -272,6 +272,12 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "31D LEFT"
+        },
+        {
+            "name": "ALAMGIR HOSSAIN",
+            "key": "fcb389a75f8072210ff96cc87d7c4910b5413c0891cfdf78f6b33eaa6f737864",
+            "expiry": "2026-12-16",
+            "mode": "vip"
         }
     ]
 }
