@@ -29,17 +29,6 @@
             "isExp": false
         },
         {
-            "name": "MOJA MIA",
-            "key": "03897dfc9e495eb3382af4754bc68595cdd15e7c8c0e98e26033a187dc552c54",
-            "expiry": "2026-11-14",
-            "mode": "vip",
-            "c": "var(--ios-orange)",
-            "x": 0,
-            "st": "EXPIRED",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true
-        },
-        {
             "name": "ABHISHEK",
             "key": "e37370f9dfb3035bccf138261820fcea2628f573f6617639dfaa4a8d39d60afb",
             "expiry": "2026-12-31",
@@ -279,7 +268,10 @@
             "name": "SUFIYAN SHAIKH",
             "key": "bebec156e6c3733044b7aa5d451fecfceca4d3037562e0da7caf39a204ae02e9",
             "expiry": "2026-12-16",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
         }
     ]
 }
