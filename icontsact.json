@@ -241,12 +241,6 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "26D LEFT"
-        },
-        {
-            "name": "DEMO",
-            "key": "46c6a2e75db7a41f5794313ed188e41fd4675ac9bf2767edae518ad21ed6e7b6",
-            "expiry": "2026-11-25",
-            "mode": "vip"
         }
     ]
 }
