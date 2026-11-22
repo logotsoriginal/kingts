@@ -227,6 +227,12 @@
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
             "st": "31D LEFT"
+        },
+        {
+            "name": "PRAKASH PRAJAPATI",
+            "key": "ef38faec6b27d0799c1d98614821f1f600b41c076bb3fbaf220a9f1fddf3e090",
+            "expiry": "2026-12-22",
+            "mode": "vip"
         }
     ]
 }
