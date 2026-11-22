@@ -40,78 +40,6 @@
             "isExp": false
         },
         {
-            "name": "UMESH MAHTO",
-            "key": "71275827ab91563d5911f879ee1311b73c36736fa5139cb46ed763f2b347e055",
-            "expiry": "2026-11-15",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
-            "name": "USER_OFF0",
-            "key": "afe7c98e4df756414f4b7b973c46c22648f9c6cb7eae0beb7f9e561f031195eb",
-            "expiry": "2026-11-18",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
-            "name": "AJAY KUMAR",
-            "key": "e1cb0671fabbd0b45f98ab3bfd54dc60770ced765123df548cc0335cf3bc0bbf",
-            "expiry": "2026-11-18",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
-            "name": "USER_HWMI",
-            "key": "00d660eda2c6983e0696a06f3783c81a143f1ec40367ee5a6638d05751082f57",
-            "expiry": "2026-11-18",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
-            "name": "SULTAN",
-            "key": "6b5a7cdc7a93bd89d7504630896e69c26cae3fd567cec6004691a97eed28cf88",
-            "expiry": "2026-11-19",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
-            "name": "MAHESH",
-            "key": "426489ce80c1da7ae954e8233576c0e941bb679a307e28d1ed0249fe4a506522",
-            "expiry": "2026-11-19",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
-            "name": "GAJJU",
-            "key": "d07678a24f67d5dde94218b8bbf40e6ca76c9805a172e0a357a07d15a5d7ccac",
-            "expiry": "2026-11-20",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
-            "name": "SR SR",
-            "key": "ef3abb736f6d7bcd99c7ce2829506dab85d96c1026170c403d08a35fe10f09d2",
-            "expiry": "2026-11-19",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
             "name": "SANJEEV",
             "key": "c1958a789a0f3eb2af0d54b3c7446eeded7ef96d9fdf51dd67405b753502547a",
             "expiry": "2026-11-21",
@@ -295,7 +223,10 @@
             "name": "MOHIT MALVIYA",
             "key": "c2e417a6b3ea99c3509b7994b59120dd4ee3bdcce0eb0d28a891a6adfa05c7c7",
             "expiry": "2026-12-22",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
         }
     ]
 }
