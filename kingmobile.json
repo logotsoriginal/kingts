@@ -223,6 +223,15 @@
             "name": "SONU KUMAR",
             "key": "56f02ec08218247be7ab1a31df580c6a321aaa2c47587ff4fa0a45402bba8acc",
             "expiry": "2026-12-25",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
+        },
+        {
+            "name": "RAZZ",
+            "key": "548e70f78038c4a40e46033bfa512fa3d738523e99822b865e3b737c3d54aa43",
+            "expiry": "2026-12-25",
             "mode": "vip"
         }
     ]
