@@ -13,7 +13,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "39D LEFT",
+            "st": "36D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -24,7 +24,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1411D LEFT",
+            "st": "1408D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -35,7 +35,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "40D LEFT",
+            "st": "37D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -44,36 +44,36 @@
             "key": "c1958a789a0f3eb2af0d54b3c7446eeded7ef96d9fdf51dd67405b753502547a",
             "expiry": "2026-11-21",
             "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "0D LEFT"
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true,
+            "st": "EXPIRED"
         },
         {
             "name": "SK",
             "key": "2778419faaeca2f952ab0fbdca336344519cea1ea89af6967dab82398f0e04be",
             "expiry": "2026-11-22",
             "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "1D LEFT"
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true,
+            "st": "EXPIRED"
         },
         {
             "name": "ARYAN",
             "key": "ec0563b84de40f70f30a3cfbe24d9c5e62c16b1aa3388308b0ee78f6f86d368a",
             "expiry": "2026-11-23",
             "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "2D LEFT"
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true,
+            "st": "EXPIRED"
         },
         {
             "name": "CK",
             "key": "e757d7a2d5a41df418c6d98d0e79c8e50b95237d47ca71e5382ac2dc6a7dc3e5",
             "expiry": "2026-11-23",
             "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "2D LEFT"
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true,
+            "st": "EXPIRED"
         },
         {
             "name": "RU DON",
@@ -82,7 +82,7 @@
             "mode": "vip",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "3D LEFT"
+            "st": "0D LEFT"
         },
         {
             "name": "RAJU KUMAR",
@@ -91,7 +91,7 @@
             "mode": "vip",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "4D LEFT"
+            "st": "1D LEFT"
         },
         {
             "name": "K BHAI",
@@ -100,7 +100,7 @@
             "mode": "vip",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "5D LEFT"
+            "st": "2D LEFT"
         },
         {
             "name": "IMRAN ALI",
@@ -109,7 +109,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "9D LEFT"
+            "st": "6D LEFT"
         },
         {
             "name": "SUNIL",
@@ -118,7 +118,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "10D LEFT"
+            "st": "7D LEFT"
         },
         {
             "name": "DEEPAK SHARMA",
@@ -127,7 +127,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "11D LEFT"
+            "st": "8D LEFT"
         },
         {
             "name": "RISHIKESH",
@@ -136,7 +136,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "11D LEFT"
+            "st": "8D LEFT"
         },
         {
             "name": "CC",
@@ -145,7 +145,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "12D LEFT"
+            "st": "9D LEFT"
         },
         {
             "name": "SUFIYAN SHAIKH",
@@ -154,7 +154,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "12D LEFT"
+            "st": "9D LEFT"
         },
         {
             "name": "RISHABH SHARMA",
@@ -163,7 +163,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "14D LEFT"
+            "st": "11D LEFT"
         },
         {
             "name": "D KUMAR",
@@ -172,7 +172,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "16D LEFT"
+            "st": "13D LEFT"
         },
         {
             "name": "VIJAY",
@@ -181,7 +181,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "19D LEFT"
+            "st": "16D LEFT"
         },
         {
             "name": "SAMRAT",
@@ -190,7 +190,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "21D LEFT"
+            "st": "18D LEFT"
         },
         {
             "name": "SUFIYAN SHAIKH",
@@ -199,7 +199,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "25D LEFT"
+            "st": "22D LEFT"
         },
         {
             "name": "ALAMGIR HOSSAIN",
@@ -208,7 +208,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "25D LEFT"
+            "st": "22D LEFT"
         },
         {
             "name": "RAM",
@@ -217,7 +217,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "29D LEFT"
+            "st": "26D LEFT"
         },
         {
             "name": "MOHIT MALVIYA",
@@ -226,12 +226,21 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "31D LEFT"
+            "st": "28D LEFT"
         },
         {
             "name": "PRAKASH PRAJAPATI",
             "key": "ef38faec6b27d0799c1d98614821f1f600b41c076bb3fbaf220a9f1fddf3e090",
             "expiry": "2026-12-22",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "28D LEFT"
+        },
+        {
+            "name": "RAHUL SINGH",
+            "key": "60b04db08db4c3b403ab87d03e49109366c12be0ac72d5fb67a927b171ba0fe9",
+            "expiry": "2026-12-25",
             "mode": "vip"
         }
     ]
