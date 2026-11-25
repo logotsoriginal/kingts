@@ -40,42 +40,6 @@
             "isExp": false
         },
         {
-            "name": "SANJEEV",
-            "key": "c1958a789a0f3eb2af0d54b3c7446eeded7ef96d9fdf51dd67405b753502547a",
-            "expiry": "2026-11-21",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
-            "name": "SK",
-            "key": "2778419faaeca2f952ab0fbdca336344519cea1ea89af6967dab82398f0e04be",
-            "expiry": "2026-11-22",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
-            "name": "ARYAN",
-            "key": "ec0563b84de40f70f30a3cfbe24d9c5e62c16b1aa3388308b0ee78f6f86d368a",
-            "expiry": "2026-11-23",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
-            "name": "CK",
-            "key": "e757d7a2d5a41df418c6d98d0e79c8e50b95237d47ca71e5382ac2dc6a7dc3e5",
-            "expiry": "2026-11-23",
-            "mode": "vip",
-            "color": "text-rose-600 bg-rose-50 border-rose-200",
-            "isExp": true,
-            "st": "EXPIRED"
-        },
-        {
             "name": "RU DON",
             "key": "0e3b986f61978de22ae76bd979b80e0bf98d7431aeb09dc4d0badc07dff3d18a",
             "expiry": "2026-11-24",
@@ -241,7 +205,10 @@
             "name": "RAHUL SINGH",
             "key": "60b04db08db4c3b403ab87d03e49109366c12be0ac72d5fb67a927b171ba0fe9",
             "expiry": "2026-12-25",
-            "mode": "vip"
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
         }
     ]
 }
