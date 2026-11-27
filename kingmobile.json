@@ -13,7 +13,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "36D LEFT",
+            "st": "34D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -24,7 +24,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "1408D LEFT",
+            "st": "1406D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -35,7 +35,7 @@
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "37D LEFT",
+            "st": "35D LEFT",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false
         },
@@ -44,18 +44,18 @@
             "key": "0e3b986f61978de22ae76bd979b80e0bf98d7431aeb09dc4d0badc07dff3d18a",
             "expiry": "2026-11-24",
             "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "0D LEFT"
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true,
+            "st": "EXPIRED"
         },
         {
             "name": "RAJU KUMAR",
             "key": "cfe335828b1785a8c8abbcac4784e635c57648cb3c2589df068274a1ff8cfe3e",
             "expiry": "2026-11-25",
             "mode": "vip",
-            "color": "text-amber-600 bg-amber-50 border-amber-200",
-            "isExp": false,
-            "st": "1D LEFT"
+            "color": "text-rose-600 bg-rose-50 border-rose-200",
+            "isExp": true,
+            "st": "EXPIRED"
         },
         {
             "name": "K BHAI",
@@ -64,25 +64,25 @@
             "mode": "vip",
             "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "2D LEFT"
+            "st": "0D LEFT"
         },
         {
             "name": "IMRAN ALI",
             "key": "f6ce795d09462b337e5a16699d008ee6cd351ff016b1b4c8331631c24b65b8cb",
             "expiry": "2026-11-30",
             "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "6D LEFT"
+            "st": "4D LEFT"
         },
         {
             "name": "SUNIL",
             "key": "6be841af2ce594fc08887596fa1f05e7840f27754813d6a5638dfa93cf583d53",
             "expiry": "2026-12-01",
             "mode": "vip",
-            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "color": "text-amber-600 bg-amber-50 border-amber-200",
             "isExp": false,
-            "st": "7D LEFT"
+            "st": "5D LEFT"
         },
         {
             "name": "DEEPAK SHARMA",
@@ -91,7 +91,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "8D LEFT"
+            "st": "6D LEFT"
         },
         {
             "name": "RISHIKESH",
@@ -100,7 +100,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "8D LEFT"
+            "st": "6D LEFT"
         },
         {
             "name": "CC",
@@ -109,7 +109,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "9D LEFT"
+            "st": "7D LEFT"
         },
         {
             "name": "SUFIYAN SHAIKH",
@@ -118,7 +118,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "9D LEFT"
+            "st": "7D LEFT"
         },
         {
             "name": "RISHABH SHARMA",
@@ -127,7 +127,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "11D LEFT"
+            "st": "9D LEFT"
         },
         {
             "name": "D KUMAR",
@@ -136,7 +136,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "13D LEFT"
+            "st": "11D LEFT"
         },
         {
             "name": "VIJAY",
@@ -145,7 +145,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "16D LEFT"
+            "st": "14D LEFT"
         },
         {
             "name": "SAMRAT",
@@ -154,7 +154,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "18D LEFT"
+            "st": "16D LEFT"
         },
         {
             "name": "SUFIYAN SHAIKH",
@@ -163,7 +163,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "22D LEFT"
+            "st": "20D LEFT"
         },
         {
             "name": "ALAMGIR HOSSAIN",
@@ -172,7 +172,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "22D LEFT"
+            "st": "20D LEFT"
         },
         {
             "name": "RAM",
@@ -181,7 +181,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "26D LEFT"
+            "st": "24D LEFT"
         },
         {
             "name": "MOHIT MALVIYA",
@@ -190,7 +190,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "28D LEFT"
+            "st": "26D LEFT"
         },
         {
             "name": "PRAKASH PRAJAPATI",
@@ -199,7 +199,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "28D LEFT"
+            "st": "26D LEFT"
         },
         {
             "name": "RAHUL SINGH",
@@ -208,7 +208,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "31D LEFT"
+            "st": "29D LEFT"
         },
         {
             "name": "GOPAL BHANDGE",
@@ -217,7 +217,7 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "31D LEFT"
+            "st": "29D LEFT"
         },
         {
             "name": "SONU KUMAR",
@@ -226,12 +226,21 @@
             "mode": "vip",
             "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
             "isExp": false,
-            "st": "31D LEFT"
+            "st": "29D LEFT"
         },
         {
             "name": "RAZZ",
             "key": "548e70f78038c4a40e46033bfa512fa3d738523e99822b865e3b737c3d54aa43",
             "expiry": "2026-12-25",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "29D LEFT"
+        },
+        {
+            "name": "ROHIT",
+            "key": "79bec5ce4f80c262c23dffc51e5a97f7ee6d5693f8021c53a0252d0e36f1de6f",
+            "expiry": "2026-12-27",
             "mode": "vip"
         }
     ]
